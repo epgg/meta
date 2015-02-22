@@ -1,0 +1,23 @@
+{
+    "terms": {
+        "60001": [
+            "Male", 
+            "Donor sex: Male"
+        ], 
+        "60002": [
+            "Female", 
+            "Donor sex: Female"
+        ], 
+        "60003": [
+            "Unknown", 
+            "Donor sex: Unknown"
+        ]
+    }, 
+    "vocabulary": {
+        "Donor Gender": [
+            "60001", 
+            "60002", 
+            "60003"
+        ]
+    }
+}

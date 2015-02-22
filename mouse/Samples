@@ -1,0 +1,413 @@
+{
+    "terms": {
+        "10001": [
+            "MEL (Leukemia (K562 analog))", 
+            "MEL (Leukemia (K562 analog))"
+        ], 
+        "10002": [
+            "ES-E14 (mouse embryonic stem cell line E14)", 
+            "ES-E14 (mouse embryonic stem cell line E14)"
+        ], 
+        "10003": [
+            "CH12 (B-cell lymphoma (GM12878 analog))", 
+            "CH12 (B-cell lymphoma (GM12878 analog))"
+        ], 
+        "10004": [
+            "NIH-3T3 (fibroblast)", 
+            "NIH-3T3 (fibroblast)"
+        ], 
+        "10005": [
+            "Cerebellum", 
+            "Cerebellum"
+        ], 
+        "10006": [
+            "LgIntestine (Large Intestine)", 
+            "LgIntestine (Large Intestine)"
+        ], 
+        "10007": [
+            "Patski (Mouse Embryonic Kidney Fibroblast. As described in Lingenfelter et al., 1998 (Nat Genet. 1998 18:212-3) and Yang et al., 2010 (Genome Res.  2010 20:614-22), PATSKI is a female interspecific mouse fibroblast that was derived from the embryonic  kidney of an M.spretus x C57BL/6J hybrid mouse such that the C57Bl/6J X chromosome (maternal) is  always the inactive X. This is an adherent cell line.)", 
+            "Patski (Mouse Embryonic Kidney Fibroblast. As described in Lingenfelter et al., 1998 (Nat Genet. 1998 18:212-3) and Yang et al., 2010 (Genome Res.  2010 20:614-22), PATSKI is a female interspecific mouse fibroblast that was derived from the embryonic  kidney of an M.spretus x C57BL/6J hybrid mouse such that the C57Bl/6J X chromosome (maternal) is  always the inactive X. This is an adherent cell line.)"
+        ], 
+        "10008": [
+            "GenitalFatPad (Genital Adipose tissue)", 
+            "GenitalFatPad (Genital Adipose tissue)"
+        ], 
+        "10009": [
+            "Liver", 
+            "Liver"
+        ], 
+        "10010": [
+            "A20 (B cell lymphoma line derived from a spontaneous reticulum cell neoplasm)", 
+            "A20 (B cell lymphoma line derived from a spontaneous reticulum cell neoplasm)"
+        ], 
+        "10011": [
+            "Cerebrum", 
+            "Cerebrum"
+        ], 
+        "10012": [
+            "Spleen", 
+            "Spleen"
+        ], 
+        "10013": [
+            "B-cell_(CD19+) (B Cell , CD19+)", 
+            "B-cell_(CD19+) (B Cell , CD19+)"
+        ], 
+        "10014": [
+            "Thymus", 
+            "Thymus"
+        ], 
+        "10015": [
+            "HeadlessEmbryo (Whole embryos with heads removed)", 
+            "HeadlessEmbryo (Whole embryos with heads removed)"
+        ], 
+        "10016": [
+            "Heart", 
+            "Heart"
+        ], 
+        "10017": [
+            "SkMuscle (Skeletal Muscle)", 
+            "SkMuscle (Skeletal Muscle)"
+        ], 
+        "10018": [
+            "B-cell_(CD43-) (mouse spleen B cells, CD43-,CD11b-)", 
+            "B-cell_(CD43-) (mouse spleen B cells, CD43-,CD11b-)"
+        ], 
+        "10019": [
+            "WholeBrain (Whole Brain)", 
+            "WholeBrain (Whole Brain)"
+        ], 
+        "10020": [
+            "416B (myeloid progenitor cells, CD34+)", 
+            "416B (myeloid progenitor cells, CD34+)"
+        ], 
+        "10021": [
+            "FatPad (Adipose tissue)", 
+            "FatPad (Adipose tissue)"
+        ], 
+        "10022": [
+            "T-Naive (Naive T cells: CD4+, CD25-)", 
+            "T-Naive (Naive T cells: CD4+, CD25-)"
+        ], 
+        "10023": [
+            "Lung", 
+            "Lung"
+        ], 
+        "10024": [
+            "Kidney", 
+            "Kidney"
+        ], 
+        "10025": [
+            "Erythrobl (Erythroblast, ter119+ cells from liver)", 
+            "Erythrobl (Erythroblast, ter119+ cells from liver)"
+        ], 
+        "10026": [
+            "G1E (Gata1- erythroid progenitor)", 
+            "G1E (Gata1- erythroid progenitor)"
+        ], 
+        "10027": [
+            "G1E-ER4 (Gata1 restored erythroid cells, differentiation induced by estradiol (E2))", 
+            "G1E-ER4 (Gata1 restored erythroid cells, differentiation induced by estradiol (E2))"
+        ], 
+        "10028": [
+            "Megakaryo (Megakaryocyte)", 
+            "Megakaryo (Megakaryocyte)"
+        ], 
+        "10029": [
+            "10T1/2 (Multipotential cell line that can be converted by 5-azacytidine into three mesodermal stem cell lineages.)", 
+            "10T1/2 (Multipotential cell line that can be converted by 5-azacytidine into three mesodermal stem cell lineages.)"
+        ], 
+        "10030": [
+            "C2C12 (Myoblast cell line derived from thigh muscle of C3H mice after crush injury)", 
+            "C2C12 (Myoblast cell line derived from thigh muscle of C3H mice after crush injury)"
+        ], 
+        "10031": [
+            "Cortex", 
+            "Cortex"
+        ], 
+        "10032": [
+            "BoneMarrow (Bone Marrow)", 
+            "BoneMarrow (Bone Marrow)"
+        ], 
+        "10033": [
+            "Limb", 
+            "Limb"
+        ], 
+        "10034": [
+            "BAT (Brown adipocytes tissue)", 
+            "BAT (Brown adipocytes tissue)"
+        ], 
+        "10035": [
+            "SmIntestine (Small Intestine)", 
+            "SmIntestine (Small Intestine)"
+        ], 
+        "10036": [
+            "MEF (Mouse Embryonic Fibroblast)", 
+            "MEF (Mouse Embryonic Fibroblast)"
+        ], 
+        "10037": [
+            "Placenta", 
+            "Placenta"
+        ], 
+        "10038": [
+            "BMDM (Bone marrow derived macrophage)", 
+            "BMDM (Bone marrow derived macrophage)"
+        ], 
+        "10039": [
+            "OlfactBulb (Olfactory Bulb)", 
+            "OlfactBulb (Olfactory Bulb)"
+        ], 
+        "10040": [
+            "Testis", 
+            "Testis"
+        ], 
+        "10041": [
+            "ES-Bruce4 (mouse embryonic stem cells)", 
+            "ES-Bruce4 (mouse embryonic stem cells)"
+        ], 
+        "10042": [
+            "MammaryGland (Mammary Gland)", 
+            "MammaryGland (Mammary Gland)"
+        ], 
+        "10043": [
+            "Duodenum", 
+            "Duodenum"
+        ], 
+        "10044": [
+            "Adrenal (Adrenal gland)", 
+            "Adrenal (Adrenal gland)"
+        ], 
+        "10045": [
+            "SubcFatPad (Subcutaneous Adipose tissue)", 
+            "SubcFatPad (Subcutaneous Adipose tissue)"
+        ], 
+        "10046": [
+            "Stomach", 
+            "Stomach"
+        ], 
+        "10047": [
+            "Colon", 
+            "Colon"
+        ], 
+        "10048": [
+            "Ovary", 
+            "Ovary"
+        ], 
+        "10049": [
+            "J1 ES cells", 
+            "J1 mouse embryonic stem cell"
+        ], 
+        "10050": [
+            "ATM2E-I13", 
+            "A-MuLV transformed pro-B cells"
+        ], 
+        "10051": [
+            "ZhBTc4 (Undifferentiated mouse embryonic stem cells)", 
+            "ZhBTc4 (Undifferentiated mouse embryonic stem cells)"
+        ], 
+        "10052": [
+            "EPC_(CD117+_CD71+_TER119+) (liver fraction CD117+,CD71+,TER119+)", 
+            "EPC_(CD117+_CD71+_TER119+) (liver fraction CD117+,CD71+,TER119+)"
+        ], 
+        "10053": [
+            "ES-WW6_F1KO (Histone H1c, H1d, H1e triple null mouse embryonic stem cell line derived from ES-WW6 cells.)", 
+            "ES-WW6_F1KO (Histone H1c, H1d, H1e triple null mouse embryonic stem cell line derived from ES-WW6 cells.)"
+        ], 
+        "10054": [
+            "mG/ER (MEL-GATA-1-ER, This is a mouse suspension cell line derived from MEL cells by stable transfection with a GATA-1-ER fusion protein construct as described by Choe et al., 2003 (Cancer Res 63, 6363-6369, 2003). These cells can be terminally differentiated into mature erythroid cells with \u0392-estradiol treatment)", 
+            "mG/ER (MEL-GATA-1-ER, This is a mouse suspension cell line derived from MEL cells by stable transfection with a GATA-1-ER fusion protein construct as described by Choe et al., 2003 (Cancer Res 63, 6363-6369, 2003). These cells can be terminally differentiated into mature erythroid cells with \u0392-estradiol treatment)"
+        ], 
+        "10055": [
+            "HindlimbBud (embryo hindlimb buds)", 
+            "HindlimbBud (embryo hindlimb buds)"
+        ], 
+        "10056": [
+            "Retina", 
+            "Retina"
+        ], 
+        "10057": [
+            "THelper-Activated (Activated primary CD4 effector cells, isolated ex vivo)", 
+            "THelper-Activated (Activated primary CD4 effector cells, isolated ex vivo)"
+        ], 
+        "10058": [
+            "EPC_(CD117-_CD71+_TER119+) (liver fraction CD117-,CD71+,TER119+)", 
+            "EPC_(CD117-_CD71+_TER119+) (liver fraction CD117-,CD71+,TER119+)"
+        ], 
+        "10059": [
+            "ES-WW6 (ES-cells isolated from mix of ~20% C57/B6J, ~75% 129/Sv and ~5% SJL strains)", 
+            "ES-WW6 (ES-cells isolated from mix of ~20% C57/B6J, ~75% 129/Sv and ~5% SJL strains)"
+        ], 
+        "10060": [
+            "Mesoderm (axial somatic and lateral plate mesoderm from eviscerated headless, limbless embryos)", 
+            "Mesoderm (axial somatic and lateral plate mesoderm from eviscerated headless, limbless embryos)"
+        ], 
+        "10061": [
+            "EPC_(CD117+_CD71-_TER119-) (liver fraction CD117+,CD71-,TER119-)", 
+            "EPC_(CD117+_CD71-_TER119-) (liver fraction CD117+,CD71-,TER119-)"
+        ], 
+        "10062": [
+            "EPC_(CD117+_CD71+_TER119-) (liver fraction CD117+,CD71+,TER119-)", 
+            "EPC_(CD117+_CD71+_TER119-) (liver fraction CD117+,CD71+,TER119-)"
+        ], 
+        "10063": [
+            "ForelimbBud (embryo forelimb buds)", 
+            "ForelimbBud (embryo forelimb buds)"
+        ], 
+        "10064": [
+            "ES-CJ7 (ES-cells were originally isolated from 129S1/SVImJ mice by Swiatek PJ et al. in 1993 (Perinatal lethality and defects in hindbrain development in mice homozygous for a targeted mutation of the zinc finger gene Krox20. Swiatek PJ, Gridley T. Genes Dev. 1993 Nov,7(11):2071-84.))", 
+            "ES-CJ7 (ES-cells were originally isolated from 129S1/SVImJ mice by Swiatek PJ et al. in 1993 (Perinatal lethality and defects in hindbrain development in mice homozygous for a targeted mutation of the zinc finger gene Krox20. Swiatek PJ, Gridley T. Genes Dev. 1993 Nov,7(11):2071-84.))"
+        ], 
+        "10065": [
+            "TReg-Activated (Activated primary T regulatory cells, isolated ex vivo)", 
+            "TReg-Activated (Activated primary T regulatory cells, isolated ex vivo)"
+        ], 
+        "10066": [
+            "TReg (Regulatory T cells CD4+,CD25+)", 
+            "TReg (Regulatory T cells CD4+,CD25+)"
+        ], 
+        "10067": [
+            "3134 (Mammary)", 
+            "3134 (Mammary)"
+        ], 
+        "10068": [
+            "Fibroblast", 
+            "Fibroblast"
+        ], 
+        "10069": [
+            "MEP (mouse megakaryocyte erythroid progenitor cells with lineages CD16/32 and CD34-)", 
+            "MEP (mouse megakaryocyte erythroid progenitor cells with lineages CD16/32 and CD34-)"
+        ], 
+        "10070": [
+            "FVprogenitor (Friend virus infected murine CD34-,CD133-,Kit+,Sca1+ progenitor cells. Strains which can be used to generate the cells must carry the Fv2 sensitive allele (Fv2s). #PROVISIONAL)", 
+            "FVprogenitor (Friend virus infected murine CD34-,CD133-,Kit+,Sca1+ progenitor cells. Strains which can be used to generate the cells must carry the Fv2 sensitive allele (Fv2s). #PROVISIONAL)"
+        ], 
+        "10071": [
+            "FVLstem (Friend virus infected murine CD34+,CD133+,Kit+,Sca1+ Leukemia stem cells. Strains which can be used to generate the cells must carry the Fv2 sensitive allele (Fv2s). #PROVISIONAL)", 
+            "FVLstem (Friend virus infected murine CD34+,CD133+,Kit+,Sca1+ Leukemia stem cells. Strains which can be used to generate the cells must carry the Fv2 sensitive allele (Fv2s). #PROVISIONAL)"
+        ], 
+        "10072": [
+            "FrontalLobe (Frontal Lobe)", 
+            "FrontalLobe (Frontal Lobe)"
+        ], 
+        "10073": [
+            "Bladder (Urinary Bladder)", 
+            "Bladder (Urinary Bladder)"
+        ], 
+        "10074": [
+            "CNS (Central Nervous System)", 
+            "CNS (Central Nervous System)"
+        ], 
+        "10075": [
+            "E14.5-heart", 
+            "E14.5-heart"
+        ], 
+        "10076": [
+            "E14.5-brain", 
+            "E14.5-brain"
+        ], 
+        "10077": [
+            "E14.5-limb", 
+            "E14.5-limb"
+        ], 
+        "10078": [
+            "E14.5-liver", 
+            "E14.5-liver"
+        ], 
+        "10079": [
+            "Intestine", 
+            "Intestine"
+        ]
+    }, 
+    "vocabulary": {
+        "Sample": {
+            "Cell Lines": {
+                "Cancer Cell Lines": [
+                    "10001"
+                ], 
+                "Embryonic Cell Lines": [
+                    "10002", 
+                    "10007", 
+                    "10036", 
+                    "10041", 
+                    "10049", 
+                    "10051", 
+                    "10053", 
+                    "10059", 
+                    "10060", 
+                    "10064"
+                ], 
+                "Normal Cell Lines": [
+                    "10003", 
+                    "10004", 
+                    "10010", 
+                    "10013", 
+                    "10018", 
+                    "10020", 
+                    "10022", 
+                    "10025", 
+                    "10026", 
+                    "10027", 
+                    "10028", 
+                    "10029", 
+                    "10030", 
+                    "10038", 
+                    "10050", 
+                    "10052", 
+                    "10054", 
+                    "10057", 
+                    "10058", 
+                    "10061", 
+                    "10062", 
+                    "10065", 
+                    "10066", 
+                    "10067", 
+                    "10068", 
+                    "10069", 
+                    "10070", 
+                    "10071"
+                ]
+            }, 
+            "Tissues": [
+                "10005", 
+                "10006", 
+                "10008", 
+                "10009", 
+                "10011", 
+                "10012", 
+                "10014", 
+                "10015", 
+                "10016", 
+                "10017", 
+                "10019", 
+                "10021", 
+                "10023", 
+                "10024", 
+                "10031", 
+                "10032", 
+                "10033", 
+                "10034", 
+                "10035", 
+                "10037", 
+                "10039", 
+                "10040", 
+                "10042", 
+                "10043", 
+                "10044", 
+                "10045", 
+                "10046", 
+                "10047", 
+                "10048", 
+                "10055", 
+                "10056", 
+                "10063", 
+                "10072", 
+                "10073", 
+                "10074", 
+                "10075", 
+                "10076", 
+                "10077", 
+                "10078", 
+                "10079"
+            ]
+        }
+    }
+}

@@ -1,0 +1,416 @@
+{
+    "terms": {
+        "10001": [
+            "other_cell_line", 
+            "other_cell_line"
+        ], 
+        "10002": [
+            "S2R+", 
+            "S2R+"
+        ], 
+        "10003": [
+            "S2-DRSC", 
+            "S2-DRSC"
+        ], 
+        "10004": [
+            "Kc167", 
+            "Kc167"
+        ], 
+        "10005": [
+            "CME-W1-Cl.8+", 
+            "CME-W1-Cl.8+"
+        ], 
+        "10006": [
+            "ML-DmBG3-c2", 
+            "ML-DmBG3-c2"
+        ], 
+        "10007": [
+            "ML-DmD16-c3", 
+            "ML-DmD16-c3"
+        ], 
+        "10008": [
+            "S2", 
+            "S2"
+        ], 
+        "10009": [
+            "CME_W1_Cl.8+", 
+            "CME_W1_Cl.8+"
+        ], 
+        "20001": [
+            "Fatbody", 
+            "Fatbody"
+        ], 
+        "20002": [
+            "Malpighian tubules", 
+            "Malpighian tubules"
+        ], 
+        "20003": [
+            "Midgut", 
+            "Midgut"
+        ], 
+        "20004": [
+            "other_tissue", 
+            "other_tissue"
+        ], 
+        "20005": [
+            "salivary gland", 
+            "salivary gland"
+        ], 
+        "20006": [
+            "embryo-derived cell-line", 
+            "embryo-derived cell-line"
+        ], 
+        "20007": [
+            "dorsal mesothoracic disc", 
+            "dorsal mesothoracic disc"
+        ], 
+        "20008": [
+            "CNS-derived cell-line", 
+            "CNS-derived cell-line"
+        ], 
+        "20009": [
+            "Pupae", 
+            "Pupae"
+        ], 
+        "20010": [
+            "AdultFemale", 
+            "AdultFemale"
+        ], 
+        "20011": [
+            "Embryos", 
+            "Embryos"
+        ], 
+        "20012": [
+            "L3", 
+            "L3"
+        ], 
+        "20013": [
+            "L2", 
+            "L2"
+        ], 
+        "20014": [
+            "L1", 
+            "L1"
+        ], 
+        "20015": [
+            "AdultMale", 
+            "AdultMale"
+        ], 
+        "30001": [
+            "Oregon-R Orr-Weaver", 
+            "Oregon-R Orr-Weaver"
+        ], 
+        "30002": [
+            "other_strain", 
+            "other_strain"
+        ], 
+        "30003": [
+            "Oregon-R", 
+            "Oregon-R"
+        ], 
+        "30004": [
+            "USP, transgenic", 
+            "USP, transgenic"
+        ], 
+        "30005": [
+            "ISO1", 
+            "ISO1"
+        ], 
+        "30006": [
+            "DFD, transgenic", 
+            "DFD, transgenic"
+        ], 
+        "30007": [
+            "iso1 (y, bw cn sp)", 
+            "iso1 (y, bw cn sp)"
+        ], 
+        "30008": [
+            "SuUR - Orr-Weaver", 
+            "SuUR - Orr-Weaver"
+        ], 
+        "30009": [
+            "B3(made_by", 
+            "B3(made_by"
+        ], 
+        "40001": [
+            "cleavage stage", 
+            "cleavage stage"
+        ], 
+        "40002": [
+            "other_delevopmental_stage", 
+            "other_delevopmental_stage"
+        ], 
+        "40003": [
+            "Embryo 4-7h", 
+            "Embryo 4-7h"
+        ], 
+        "40004": [
+            "E0-12", 
+            "E0-12"
+        ], 
+        "40005": [
+            "CNS", 
+            "CNS"
+        ], 
+        "40006": [
+            "E0-8", 
+            "E0-8"
+        ], 
+        "40007": [
+            "E16-24", 
+            "E16-24"
+        ], 
+        "40008": [
+            "W3L", 
+            "W3L"
+        ], 
+        "40009": [
+            "WPP", 
+            "WPP"
+        ], 
+        "40010": [
+            "WPP+12", 
+            "WPP+12"
+        ], 
+        "40011": [
+            "Kc167", 
+            "Kc167"
+        ], 
+        "40012": [
+            "E8-16", 
+            "E8-16"
+        ], 
+        "40013": [
+            "AdultMale", 
+            "AdultMale"
+        ], 
+        "40014": [
+            "AdultFemale", 
+            "AdultFemale"
+        ], 
+        "40015": [
+            "L3 stage wandering larvae", 
+            "L3 stage wandering larvae"
+        ], 
+        "40016": [
+            "Mixed Embryos 0-24h", 
+            "Mixed Embryos 0-24h"
+        ], 
+        "40017": [
+            "late embryonic stage", 
+            "late embryonic stage"
+        ], 
+        "40018": [
+            "third instar larval stage", 
+            "third instar larval stage"
+        ], 
+        "40019": [
+            "BRC", 
+            "BRC"
+        ], 
+        "40020": [
+            "E16-24h_13T", 
+            "E16-24h_13T"
+        ], 
+        "40021": [
+            "E0-4", 
+            "E0-4"
+        ], 
+        "40022": [
+            "E16-24h", 
+            "E16-24h"
+        ], 
+        "40023": [
+            "EcR_mF3d", 
+            "EcR_mF3d"
+        ], 
+        "40024": [
+            "E8-16h", 
+            "E8-16h"
+        ], 
+        "40025": [
+            "E0-12h", 
+            "E0-12h"
+        ], 
+        "40026": [
+            "R13-E1-6h-Set2", 
+            "R13-E1-6h-Set2"
+        ], 
+        "40027": [
+            "5T-8-16h", 
+            "5T-8-16h"
+        ], 
+        "40028": [
+            "E0-8h_D", 
+            "E0-8h_D"
+        ], 
+        "40029": [
+            "Adult-Female", 
+            "Adult-Female"
+        ], 
+        "40030": [
+            "3rd Instar Larvae", 
+            "3rd Instar Larvae"
+        ], 
+        "40031": [
+            "Embryo 2-4hr OR", 
+            "Embryo 2-4hr OR"
+        ], 
+        "40032": [
+            "E0-4h", 
+            "E0-4h"
+        ], 
+        "40033": [
+            "E0-8h", 
+            "E0-8h"
+        ], 
+        "40034": [
+            "S2", 
+            "S2"
+        ], 
+        "40035": [
+            "(sens-GFP)-E4-8h", 
+            "(sens-GFP)-E4-8h"
+        ], 
+        "40036": [
+            "7T(cad-GFP)-E0-4h", 
+            "7T(cad-GFP)-E0-4h"
+        ], 
+        "40037": [
+            "E4-8h", 
+            "E4-8h"
+        ], 
+        "40038": [
+            "ECR-WPP+90", 
+            "ECR-WPP+90"
+        ], 
+        "40039": [
+            "ECR-WPP+12", 
+            "ECR-WPP+12"
+        ], 
+        "40040": [
+            "5T-0-6", 
+            "5T-0-6"
+        ], 
+        "40041": [
+            "E1-6h", 
+            "E1-6h"
+        ], 
+        "40042": [
+            "10T-E16-24h", 
+            "10T-E16-24h"
+        ], 
+        "40043": [
+            "10T-W3L", 
+            "10T-W3L"
+        ], 
+        "40044": [
+            "Kc", 
+            "Kc"
+        ], 
+        "40045": [
+            "3dFemale from 7T", 
+            "3dFemale from 7T"
+        ], 
+        "40046": [
+            "Mixed Adult", 
+            "Mixed Adult"
+        ], 
+        "40047": [
+            "Embryo 14-16hr OR", 
+            "Embryo 14-16hr OR"
+        ]
+    }, 
+    "vocabulary": {
+        "Sample": {
+            "Cell Line": [
+                "10003", 
+                "10001", 
+                "10008", 
+                "10007", 
+                "10004", 
+                "10006", 
+                "10009", 
+                "10002", 
+                "10005"
+            ], 
+            "Developmental Stage": [
+                "40003", 
+                "40040", 
+                "40013", 
+                "40034", 
+                "40045", 
+                "40022", 
+                "40018", 
+                "40039", 
+                "40017", 
+                "40032", 
+                "40043", 
+                "40038", 
+                "40014", 
+                "40009", 
+                "40008", 
+                "40027", 
+                "40004", 
+                "40033", 
+                "40024", 
+                "40041", 
+                "40025", 
+                "40046", 
+                "40021", 
+                "40015", 
+                "40031", 
+                "40005", 
+                "40012", 
+                "40007", 
+                "40011", 
+                "40006", 
+                "40023", 
+                "40020", 
+                "40030", 
+                "40016", 
+                "40035", 
+                "40044", 
+                "40036", 
+                "40001", 
+                "40047", 
+                "40042", 
+                "40037", 
+                "40028", 
+                "40026", 
+                "40029", 
+                "40002", 
+                "40019", 
+                "40010"
+            ], 
+            "Strain": [
+                "30001", 
+                "30003", 
+                "30002", 
+                "30005", 
+                "30006", 
+                "30009", 
+                "30008", 
+                "30007", 
+                "30004"
+            ], 
+            "Tissue": [
+                "20003", 
+                "20015", 
+                "20011", 
+                "20007", 
+                "20004", 
+                "20010", 
+                "20001", 
+                "20005", 
+                "20009", 
+                "20006", 
+                "20014", 
+                "20008", 
+                "20013", 
+                "20002", 
+                "20012"
+            ]
+        }
+    }
+}

@@ -1,0 +1,1477 @@
+{
+    "terms": {
+        "21001": [
+            "MRE-Seq", 
+            "methylation-sensitive restriction enzyme"
+        ], 
+        "21002": [
+            "RRBS", 
+            "reduced representation bisulfite sequencing"
+        ], 
+        "21003": [
+            "MeDIP-Seq", 
+            "methylated DNA immunoprecipitation"
+        ], 
+        "21004": [
+            "methylC-Seq", 
+            "whole-genome bisulfite sequencing"
+        ], 
+        "21005": [
+            "DNA methylome", 
+            "whole-genome DNA methylome"
+        ], 
+        "21006": [
+            "methylCRF", 
+            "methylation prediction by methylCRF algorithm (PMID:23804401)"
+        ], 
+        "22000": [
+            "ChIP-Seq control", 
+            "ChIP-Seq control"
+        ], 
+        "22001": [
+            "ChIP-Seq input", 
+            "ChIP-Seq input"
+        ], 
+        "22002": [
+            "H2AK5ac", 
+            "acetylation of lysine 5 of histone H2A"
+        ], 
+        "22003": [
+            "H2BK5ac", 
+            "acetylation of lysine 5 of histone H2B"
+        ], 
+        "22004": [
+            "H2BK120ac", 
+            "acetylation of lysine 120 of histone H2B"
+        ], 
+        "22005": [
+            "H2BK20ac", 
+            "acetylation of lysine 20 of histone H2B"
+        ], 
+        "22006": [
+            "H2BK15ac", 
+            "acetylation of lysine 15 of histone H2B"
+        ], 
+        "22007": [
+            "H2BK12ac", 
+            "acetylation of lysine 12 of histone H2B"
+        ], 
+        "22008": [
+            "H3K4me2", 
+            "dimethylation of lysine 4 of histone H3"
+        ], 
+        "22009": [
+            "H3K4me3", 
+            "trimethylation of lysine 4 of histone H3"
+        ], 
+        "22010": [
+            "H3K4me1", 
+            "monomethylation of lysine 4 of histone H3"
+        ], 
+        "22011": [
+            "H3K4ac", 
+            "acetylation of lysine 4 of histone H3"
+        ], 
+        "22012": [
+            "H3K9me3", 
+            "trimethylation of lysine 9 of histone H3"
+        ], 
+        "22013": [
+            "H3K9ac", 
+            "acetylation of lysine 9 of histone H3"
+        ], 
+        "22014": [
+            "H3K14ac", 
+            "acetylation of lysine 14 of histone H3"
+        ], 
+        "22015": [
+            "H3K18ac", 
+            "acetylation of lysine 18 of histone H3"
+        ], 
+        "22016": [
+            "H3K23me2", 
+            "dimethylation of lysine 23 of histone H3"
+        ], 
+        "22017": [
+            "H3K23ac", 
+            "acetylation of lysine 23 of histone 3"
+        ], 
+        "22018": [
+            "H3K27me3", 
+            "trimethylation of lysine 27 of histone H3"
+        ], 
+        "22019": [
+            "H3K27ac", 
+            "acetylation of lysine 27 of histone 3"
+        ], 
+        "22020": [
+            "H3K36me3", 
+            "trimethylation of lysine 36 of histone H3"
+        ], 
+        "22021": [
+            "H3K56ac", 
+            "acetylation of lysine 56 of histone 3"
+        ], 
+        "22022": [
+            "H3K79me2", 
+            "dimethylation of lysine 79 of histone H3"
+        ], 
+        "22023": [
+            "H3K79me1", 
+            "monomethylation of lysine 79 of histone H3"
+        ], 
+        "22024": [
+            "H4K8ac", 
+            "acetylation of lysine 8 of histone 4"
+        ], 
+        "22025": [
+            "H4K20me1", 
+            "monomethylation of lysine 20 of histone H4"
+        ], 
+        "22026": [
+            "H4K91ac", 
+            "acetylation of lysine 91 of histone 4"
+        ], 
+        "22027": [
+            "H4K5ac", 
+            "acetylation of lysine 5 of histone 4"
+        ], 
+        "22028": [
+            "H2A.Z", 
+            "histone variant H2A.Z"
+        ], 
+        "22029": [
+            "H3K9me1", 
+            "monomethylation of lysine 9 of histone H3"
+        ], 
+        "22030": [
+            "H3K27me3B", 
+            "Histone H3 (tri-methyl K27) marks repressed chromatin regions"
+        ], 
+        "22031": [
+            "H3K4me3B", 
+            "Histone H3 (tri-methyl K4) marks promoters in chromatin regions"
+        ], 
+        "22032": [
+            "H3K9acB", 
+            "Histone H3 (acetyl K9) marks promoters in chromatin regions"
+        ], 
+        "22033": [
+            "H3K36me3B", 
+            "Histone H3 (tri-methyl K36) marks actively transcribed chromatin regions"
+        ], 
+        "22034": [
+            "ESET", 
+            "ESET"
+        ], 
+        "22035": [
+            "HDAC1", 
+            "Histone deacetylase 1"
+        ], 
+        "22036": [
+            "HDAC6", 
+            "Histone deacetylase 6"
+        ], 
+        "22037": [
+            "JARID1C", 
+            "JARID1C"
+        ], 
+        "22038": [
+            "PCAF", 
+            "PCAF"
+        ], 
+        "22039": [
+            "PLU1", 
+            "PLU1"
+        ], 
+        "22040": [
+            "RBBP5", 
+            "RBBP5"
+        ], 
+        "22041": [
+            "RNAPIIS5P", 
+            "RNAPIIS5P"
+        ], 
+        "22042": [
+            "WCE", 
+            "WCE"
+        ], 
+        "22043": [
+            "CHD1", 
+            "CHD1"
+        ], 
+        "22044": [
+            "HDAC2", 
+            "Histone deacetylase 2"
+        ], 
+        "22046": [
+            "SUZ12", 
+            "SUZ12"
+        ], 
+        "22047": [
+            "KAT3A-CBP", 
+            "KAT3A-CBP"
+        ], 
+        "22048": [
+            "NCOR", 
+            "NCOR"
+        ], 
+        "22049": [
+            "RNF2", 
+            "RNF2"
+        ], 
+        "22050": [
+            "SIRT6", 
+            "SIRT6"
+        ], 
+        "22051": [
+            "CHD7", 
+            "CHD7"
+        ], 
+        "22052": [
+            "JARID1B", 
+            "histone demethylase JARID1B"
+        ], 
+        "22053": [
+            "SAP30", 
+            "SAP30"
+        ], 
+        "22054": [
+            "CBX8", 
+            "CBX8"
+        ], 
+        "22055": [
+            "MI2", 
+            "MI2"
+        ], 
+        "22056": [
+            "PHF8", 
+            "PHF8"
+        ], 
+        "22057": [
+            "JARID1A", 
+            "JARID1A"
+        ], 
+        "22058": [
+            "JMJD2A", 
+            "JMJD2A"
+        ], 
+        "22059": [
+            "CBX2", 
+            "CBX2"
+        ], 
+        "22060": [
+            "EZH2", 
+            "EZH2"
+        ], 
+        "22061": [
+            "HP1g", 
+            "HP1g"
+        ], 
+        "22062": [
+            "LSD1", 
+            "LSD1"
+        ], 
+        "22063": [
+            "NSD2", 
+            "NSD2"
+        ], 
+        "22064": [
+            "REST", 
+            "REST"
+        ], 
+        "22065": [
+            "H3T11ph", 
+            "Phosphorylation of histone H3 at threonine 11"
+        ], 
+        "22066": [
+            "H2AK9ac", 
+            "acetylation of lysine 9 of H2A"
+        ], 
+        "22067": [
+            "H4K12ac", 
+            "acetylation of lysine 12 of H4"
+        ], 
+        "22068": [
+            "H3K79me3", 
+            "trimethylation of lysine 79 of histone H3"
+        ], 
+        "23001": [
+            "DNase I hypersensitivity", 
+            "DNase I hypersensitivity"
+        ], 
+        "23002": [
+            "Digital Genomic Footprinting", 
+            "Digital Genomic Footprinting"
+        ], 
+        "23003": [
+            "FaireSeq", 
+            "Formaldehyde-Assisted Isolation of Regulatory Elements Sequencing"
+        ], 
+        "23004": [
+            "RepliSeq", 
+            "Quantifying DNA replication time using massively parallel sequencing"
+        ], 
+        "23005": [
+            "MNase-seq", 
+            "Distinguishes nucleosome positioning by Sequencing"
+        ], 
+        "23006": [
+            "DNase Control", 
+            "DNase Control"
+        ], 
+        "24001": [
+            "CTCF", 
+            "Transcriptional repressor CTCF"
+        ], 
+        "24002": [
+            "Pol2(b)", 
+            "DNA Polymerase Pol2b"
+        ], 
+        "24003": [
+            "Pol2", 
+            "DNA Polymerase Pol2"
+        ], 
+        "24004": [
+            "c-Myc", 
+            "c-Myc"
+        ], 
+        "24005": [
+            "eGFP-FOS", 
+            "eGFP-FOS"
+        ], 
+        "24006": [
+            "eGFP-GATA2", 
+            "eGFP-GATA2"
+        ], 
+        "24007": [
+            "eGFP-HDAC8", 
+            "eGFP-HDAC8"
+        ], 
+        "24008": [
+            "eGFP-JunB", 
+            "eGFP-JunB"
+        ], 
+        "24009": [
+            "eGFP-JunD", 
+            "eGFP-JunD"
+        ], 
+        "24010": [
+            "eGFP-NR4A1", 
+            "eGFP-NR4A1"
+        ], 
+        "24011": [
+            "P300", 
+            "P300"
+        ], 
+        "24012": [
+            "ERalpha_a", 
+            "ERalpha_a"
+        ], 
+        "24013": [
+            "PAX5-C20", 
+            "PAX5-C20"
+        ], 
+        "24014": [
+            "NRSF", 
+            "NRSF"
+        ], 
+        "24015": [
+            "TCF12", 
+            "TCF12"
+        ], 
+        "24016": [
+            "SIX5", 
+            "SIX5"
+        ], 
+        "24017": [
+            "RevXlinkChromatin", 
+            "RevXlinkChromatin"
+        ], 
+        "24018": [
+            "GR", 
+            "GR"
+        ], 
+        "24019": [
+            "RXRA", 
+            "RXRA"
+        ], 
+        "24020": [
+            "BCL3", 
+            "BCL3"
+        ], 
+        "24021": [
+            "GABP", 
+            "GABP"
+        ], 
+        "24022": [
+            "USF-1", 
+            "USF-1"
+        ], 
+        "24023": [
+            "SRF", 
+            "SRF"
+        ], 
+        "24024": [
+            "FOXP2", 
+            "FOXP2"
+        ], 
+        "24025": [
+            "YY1", 
+            "YY1"
+        ], 
+        "24026": [
+            "PAX5-N19", 
+            "PAX5-N19"
+        ], 
+        "24027": [
+            "SP1", 
+            "SP1"
+        ], 
+        "24028": [
+            "TAF1", 
+            "TAF1"
+        ], 
+        "24029": [
+            "ERalpha", 
+            "ERalpha"
+        ], 
+        "24030": [
+            "MEF2A", 
+            "MEF2A"
+        ], 
+        "24031": [
+            "ATF3", 
+            "ATF3"
+        ], 
+        "24032": [
+            "FOSL1", 
+            "FOSL1"
+        ], 
+        "24033": [
+            "PU.1", 
+            "PU.1"
+        ], 
+        "24034": [
+            "HEY1", 
+            "HEY1"
+        ], 
+        "24035": [
+            "EBF1", 
+            "EBF1"
+        ], 
+        "24036": [
+            "KAP1", 
+            "KAP1"
+        ], 
+        "24037": [
+            "BCL11A", 
+            "BCL11A"
+        ], 
+        "24038": [
+            "IRF4", 
+            "IRF4"
+        ], 
+        "24039": [
+            "ZBTB33", 
+            "ZBTB33"
+        ], 
+        "24040": [
+            "POU2F2", 
+            "POU2F2"
+        ], 
+        "24041": [
+            "Pol2-4H8", 
+            "Pol2-4H8"
+        ], 
+        "24042": [
+            "CTCFL", 
+            "CTCFL"
+        ], 
+        "24043": [
+            "SP2", 
+            "SP2"
+        ], 
+        "24044": [
+            "FOXA2", 
+            "FOXA2"
+        ], 
+        "24045": [
+            "HNF4G", 
+            "HNF4G"
+        ], 
+        "24046": [
+            "TAF7", 
+            "TAF7"
+        ], 
+        "24047": [
+            "THAP1", 
+            "THAP1"
+        ], 
+        "24048": [
+            "FOXA1", 
+            "FOXA1"
+        ], 
+        "24049": [
+            "ZEB1", 
+            "ZEB1"
+        ], 
+        "24050": [
+            "Egr-1", 
+            "Egr-1"
+        ], 
+        "24051": [
+            "ELF1", 
+            "ELF1"
+        ], 
+        "24052": [
+            "Rad21", 
+            "Rad21"
+        ], 
+        "24053": [
+            "MEF2C", 
+            "MEF2C"
+        ], 
+        "24054": [
+            "Sin3Ak-20", 
+            "Sin3Ak-20"
+        ], 
+        "24055": [
+            "NANOG", 
+            "NANOG"
+        ], 
+        "24056": [
+            "POU5F1", 
+            "POU5F1"
+        ], 
+        "24057": [
+            "ETS1", 
+            "ETS1"
+        ], 
+        "24058": [
+            "FOSL2", 
+            "FOSL2"
+        ], 
+        "24059": [
+            "HNF4A", 
+            "HNF4A"
+        ], 
+        "24060": [
+            "E2F6", 
+            "E2F6"
+        ], 
+        "24061": [
+            "ZBTB7A", 
+            "ZBTB7A"
+        ], 
+        "24062": [
+            "BHLHE40", 
+            "BHLHE40"
+        ], 
+        "24063": [
+            "JunD", 
+            "JunD"
+        ], 
+        "24064": [
+            "BCLAF1", 
+            "BCLAF1"
+        ], 
+        "24065": [
+            "GATA3", 
+            "GATA3"
+        ], 
+        "24066": [
+            "Max", 
+            "Max"
+        ], 
+        "24067": [
+            "Pbx3", 
+            "Pbx3"
+        ], 
+        "24068": [
+            "BATF", 
+            "BATF"
+        ], 
+        "24069": [
+            "GATA2", 
+            "GATA2"
+        ], 
+        "24070": [
+            "ZNF274", 
+            "ZNF274"
+        ], 
+        "24071": [
+            "TCF7L2", 
+            "TCF7L2"
+        ], 
+        "24072": [
+            "ELK4", 
+            "ELK4"
+        ], 
+        "24073": [
+            "RIP-Seq input", 
+            "RNA immunoprecipitations and sequencing, Input"
+        ], 
+        "24074": [
+            "T7Tag", 
+            "T7Tag"
+        ], 
+        "24075": [
+            "PABPC1", 
+            "PABPC1"
+        ], 
+        "24076": [
+            "ELAVL1", 
+            "ELAVL1"
+        ], 
+        "24601": [
+            "MAZ", 
+            "MAZ"
+        ], 
+        "24602": [
+            "ARID3A", 
+            "ARID3A"
+        ], 
+        "24603": [
+            "c-Jun", 
+            "c-Jun"
+        ], 
+        "24604": [
+            "NFKB", 
+            "NFKB"
+        ], 
+        "24605": [
+            "RFX5", 
+            "RFX5"
+        ], 
+        "24606": [
+            "CHD2", 
+            "CHD2"
+        ], 
+        "24607": [
+            "SREBP2", 
+            "SREBP2"
+        ], 
+        "24608": [
+            "c-Fos", 
+            "c-Fos"
+        ], 
+        "24609": [
+            "E2F4", 
+            "E2F4"
+        ], 
+        "24610": [
+            "GATA-1", 
+            "GATA-1"
+        ], 
+        "24611": [
+            "TFIIIC-110", 
+            "TFIIIC-110"
+        ], 
+        "24612": [
+            "ZKSCAN1", 
+            "ZKSCAN1"
+        ], 
+        "24613": [
+            "SMC3", 
+            "SMC3"
+        ], 
+        "24614": [
+            "GTF2B", 
+            "GTF2B"
+        ], 
+        "24615": [
+            "NF-YB", 
+            "NF-YB"
+        ], 
+        "24616": [
+            "Znf143", 
+            "Znf143"
+        ], 
+        "24617": [
+            "COREST", 
+            "COREST"
+        ], 
+        "24618": [
+            "IKZF1", 
+            "IKZF1"
+        ], 
+        "24619": [
+            "SETDB1", 
+            "SETDB1"
+        ], 
+        "24620": [
+            "STAT1", 
+            "STAT1"
+        ], 
+        "24621": [
+            "Pol3", 
+            "Pol3"
+        ], 
+        "24622": [
+            "E2F1", 
+            "E2F1"
+        ], 
+        "24623": [
+            "Mxi1", 
+            "Mxi1"
+        ], 
+        "24624": [
+            "CEBPB", 
+            "CEBPB"
+        ], 
+        "24625": [
+            "ZNF263", 
+            "ZNF263"
+        ], 
+        "24626": [
+            "PRDM1", 
+            "PRDM1"
+        ], 
+        "24627": [
+            "USF2", 
+            "USF2"
+        ], 
+        "24628": [
+            "TBLR1", 
+            "TBLR1"
+        ], 
+        "24629": [
+            "Bach1", 
+            "Bach1"
+        ], 
+        "24630": [
+            "TBP", 
+            "TBP"
+        ], 
+        "24631": [
+            "BRCA1", 
+            "BRCA1"
+        ], 
+        "24632": [
+            "Ini1", 
+            "Ini1"
+        ], 
+        "24633": [
+            "BAF170", 
+            "BAF170"
+        ], 
+        "24634": [
+            "Pol2(phosphoS2)", 
+            "Pol2(phosphoS2)"
+        ], 
+        "24635": [
+            "Nrf1", 
+            "Nrf1"
+        ], 
+        "24636": [
+            "IRF3", 
+            "IRF3"
+        ], 
+        "24637": [
+            "STAT3", 
+            "STAT3"
+        ], 
+        "24638": [
+            "SIN3A", 
+            "SIN3A"
+        ], 
+        "24639": [
+            "MafK", 
+            "MafK"
+        ], 
+        "24640": [
+            "GCN5", 
+            "GCN5"
+        ], 
+        "24641": [
+            "ATF1", 
+            "ATF1"
+        ], 
+        "24642": [
+            "GATA-2", 
+            "GATA-2"
+        ], 
+        "24643": [
+            "HA-E2F1", 
+            "HA-E2F1"
+        ], 
+        "24644": [
+            "TR4", 
+            "TR4"
+        ], 
+        "24645": [
+            "RPC155", 
+            "RPC155"
+        ], 
+        "24646": [
+            "NELFe", 
+            "NELFe"
+        ], 
+        "24647": [
+            "NF-E2", 
+            "NF-E2"
+        ], 
+        "24648": [
+            "SPT20", 
+            "SPT20"
+        ], 
+        "24649": [
+            "NF-YA", 
+            "NF-YA"
+        ], 
+        "24650": [
+            "STAT2", 
+            "STAT2"
+        ], 
+        "24651": [
+            "GTF2F1", 
+            "GTF2F1"
+        ], 
+        "24652": [
+            "IRF1", 
+            "IRF1"
+        ], 
+        "24653": [
+            "MafF", 
+            "MafF"
+        ], 
+        "24654": [
+            "BDP1", 
+            "BDP1"
+        ], 
+        "24655": [
+            "GRp20", 
+            "GRp20"
+        ], 
+        "24656": [
+            "PGC1A", 
+            "PGC1A"
+        ], 
+        "24657": [
+            "HSF1", 
+            "HSF1"
+        ], 
+        "24658": [
+            "Brg1", 
+            "Brg1"
+        ], 
+        "24659": [
+            "UBTF", 
+            "UBTF"
+        ], 
+        "24660": [
+            "SREBP1", 
+            "SREBP1"
+        ], 
+        "24661": [
+            "UBF", 
+            "UBF"
+        ], 
+        "24662": [
+            "AP-2alpha", 
+            "AP-2alpha"
+        ], 
+        "24663": [
+            "AP-2gamma", 
+            "AP-2gamma"
+        ], 
+        "24664": [
+            "CtBP2", 
+            "CtBP2"
+        ], 
+        "24665": [
+            "WHIP", 
+            "WHIP"
+        ], 
+        "24666": [
+            "CCNT2", 
+            "CCNT2"
+        ], 
+        "24667": [
+            "ZNF217", 
+            "ZNF217"
+        ], 
+        "24668": [
+            "BRF1", 
+            "BRF1"
+        ], 
+        "24669": [
+            "BAF155", 
+            "BAF155"
+        ], 
+        "24670": [
+            "CEBPZ", 
+            "CEBPZ"
+        ], 
+        "24671": [
+            "ELK1", 
+            "ELK1"
+        ], 
+        "24672": [
+            "ZZZ3", 
+            "ZZZ3"
+        ], 
+        "24673": [
+            "XRCC4", 
+            "XRCC4"
+        ], 
+        "24674": [
+            "BRF2", 
+            "BRF2"
+        ], 
+        "24675": [
+            "TAL1", 
+            "TAL1"
+        ], 
+        "24676": [
+            "HMGN3", 
+            "HMGN3"
+        ], 
+        "24677": [
+            "ERRA", 
+            "ERRA"
+        ], 
+        "24678": [
+            "CREB1", 
+            "CREB1"
+        ], 
+        "24679": [
+            "SP4", 
+            "SP4"
+        ], 
+        "24680": [
+            "TEAD4", 
+            "TEAD4"
+        ], 
+        "24681": [
+            "NR2F2", 
+            "NR2F2"
+        ], 
+        "24682": [
+            "TRIM28", 
+            "TRIM28"
+        ], 
+        "24683": [
+            "NFIC", 
+            "NFIC"
+        ], 
+        "24684": [
+            "MTA3", 
+            "MTA3"
+        ], 
+        "24685": [
+            "CBX3", 
+            "CBX3"
+        ], 
+        "24686": [
+            "ATF2", 
+            "ATF2"
+        ], 
+        "24687": [
+            "TCF3", 
+            "TCF3"
+        ], 
+        "24688": [
+            "PML", 
+            "PML"
+        ], 
+        "24689": [
+            "CEBPD", 
+            "CEBPD"
+        ], 
+        "24690": [
+            "STAT5A", 
+            "STAT5A"
+        ], 
+        "24691": [
+            "RUNX3", 
+            "RUNX3"
+        ], 
+        "24692": [
+            "FOXM1", 
+            "FOXM1"
+        ], 
+        "24693": [
+            "MBD4", 
+            "MBD4"
+        ], 
+        "24694": [
+            "NFATC1", 
+            "NFATC1"
+        ], 
+        "24695": [
+            "MYBL2", 
+            "MYBL2"
+        ], 
+        "24696": [
+            "CDP", 
+            "CDP"
+        ], 
+        "24697": [
+            "HCFC1", 
+            "HCFC1"
+        ], 
+        "24698": [
+            "ZC3H11A", 
+            "ZC3H11A"
+        ], 
+        "24699": [
+            "ZNF384", 
+            "ZNF384"
+        ], 
+        "24700": [
+            "GATA1", 
+            "GATA1"
+        ], 
+        "24701": [
+            "ZNF-MIZD-CP1", 
+            "ZNF-MIZD-CP1"
+        ], 
+        "24702": [
+            "CHD4", 
+            "CHD4"
+        ], 
+        "24703": [
+            "CBP", 
+            "CBP"
+        ], 
+        "24704": [
+            "MyoD", 
+            "MyoD"
+        ], 
+        "24705": [
+            "Myogenin", 
+            "Myogenin"
+        ], 
+        "24706": [
+            "FLI1", 
+            "FLI1"
+        ], 
+        "24707": [
+            "Nrf2", 
+            "Nrf2"
+        ], 
+        "24708": [
+            "c-Myb", 
+            "c-Myb"
+        ], 
+        "24709": [
+            "PAX5", 
+            "PAX5"
+        ], 
+        "24710": [
+            "H3ac", 
+            "H3ac"
+        ], 
+        "25001": [
+            "Exon array", 
+            "Exon array"
+        ], 
+        "25002": [
+            "RNA-Seq", 
+            "RNA Sequencing"
+        ], 
+        "25003": [
+            "smRNA-Seq", 
+            "smRNA-Seq"
+        ], 
+        "25004": [
+            "Cage", 
+            "5 prime end cap analysis gene expression | CAGE promotor"
+        ], 
+        "25005": [
+            "shRNA expression", 
+            "Short hairpin RNA expression"
+        ], 
+        "25006": [
+            "RnaPet", 
+            "RNA Paired-End Tags"
+        ], 
+        "26002": [
+            "Genotyping", 
+            "Genotyping (CNV and SNP)"
+        ], 
+        "27001": [
+            "ChIA-PET", 
+            "Chromatin interaction analysis with paired-end tag sequencing"
+        ], 
+        "27002": [
+            "5C", 
+            "Carbon-copy chromosome conformation capture"
+        ], 
+        "27003": [
+            "Hi-C", 
+            "High-content genome conformation capture"
+        ], 
+        "27004": [
+            "chromHMM", 
+            "chromatin state"
+        ]
+    }, 
+    "vocabulary": {
+        "Assay": {
+            "Epigenetic Mark": {
+                "DNA Methylation": [
+                    "21001", 
+                    "21002", 
+                    "21003", 
+                    "21004", 
+                    "21005",
+                    "21006"
+                ], 
+                "Histone Mark": {
+                    "H2A": {
+                        "H2AK5": [
+                            "22002"
+                        ], 
+                        "H2AK9": [
+                            "22066"
+                        ], 
+                        "Other H2A": [
+                            "22028"
+                        ]
+                    }, 
+                    "H2B": {
+                        "H2BK12": [
+                            "22007"
+                        ], 
+                        "H2BK120": [
+                            "22004"
+                        ], 
+                        "H2BK15": [
+                            "22006"
+                        ], 
+                        "H2BK20": [
+                            "22005"
+                        ], 
+                        "H2BK5": [
+                            "22003"
+                        ]
+                    }, 
+                    "H3": {
+                        "H3K14": [
+                            "22014"
+                        ], 
+                        "H3K18": [
+                            "22015"
+                        ], 
+                        "H3K23": [
+                            "22016", 
+                            "22017"
+                        ], 
+                        "H3K27": [
+                            "22018", 
+                            "22019", 
+                            "22030"
+                        ], 
+                        "H3K36": [
+                            "22020", 
+                            "22033"
+                        ], 
+                        "H3K4": [
+                            "22010", 
+                            "22008", 
+                            "22009", 
+                            "22011", 
+                            "22031"
+                        ], 
+                        "H3K56": [
+                            "22021"
+                        ], 
+                        "H3K79": [
+                            "22022", 
+                            "22023",
+                            "22068"
+                        ], 
+                        "H3K9": [
+                            "22012", 
+                            "22013", 
+                            "22029", 
+                            "22032"
+                        ], 
+                        "H3T11": [
+                            "22065"
+                        ],
+                        "Other H3": [
+                            "24710"
+                        ]
+                    }, 
+                    "H4": {
+                        "H4K12": [
+                            "22067"
+                        ], 
+                        "H4K20": [
+                            "22025"
+                        ], 
+                        "H4K5": [
+                            "22027"
+                        ], 
+                        "H4K8": [
+                            "22024"
+                        ], 
+                        "H4K91": [
+                            "22026"
+                        ]
+                    }, 
+                    "Other Histone Mark": [
+                        "22000", 
+                        "22001"
+                    ]
+                }, 
+                "Histone-modifying enzymes": [
+                    "22034", 
+                    "22035", 
+                    "22036", 
+                    "22037", 
+                    "22038", 
+                    "22039", 
+                    "22040", 
+                    "22041", 
+                    "22042", 
+                    "22043", 
+                    "22044", 
+                    "22046", 
+                    "22047", 
+                    "22048", 
+                    "22049", 
+                    "22050", 
+                    "22051", 
+                    "22052", 
+                    "22053", 
+                    "22054", 
+                    "22055", 
+                    "22056", 
+                    "22057", 
+                    "22058", 
+                    "22059", 
+                    "22060", 
+                    "22061", 
+                    "22062", 
+                    "22063", 
+                    "22064"
+                ], 
+                "Other Epigenetic Mark": [
+                    "27004", 
+                    "23001", 
+                    "23002", 
+                    "23003", 
+                    "23004", 
+                    "23005", 
+                    "23006"
+                ]
+            }, 
+            "Expression": [
+                "25001", 
+                "25002", 
+                "25003", 
+                "25004", 
+                "25005", 
+                "25006"
+            ], 
+            "Long Range Interaction": [
+                "27001", 
+                "27002", 
+                "27003"
+            ], 
+            "Other Assays": [
+                "26002"
+            ], 
+            "Transcription Regulator": {
+                "ENCODE Control": [
+                    "24007", 
+                    "24006", 
+                    "24005", 
+                    "24008", 
+                    "24009", 
+                    "24010"
+                ], 
+                "Other Transcription Regulator": [
+                    "24001", 
+                    "24002", 
+                    "24003", 
+                    "24004", 
+                    "24011", 
+                    "24012", 
+                    "24013", 
+                    "24014", 
+                    "24015", 
+                    "24016", 
+                    "24017", 
+                    "24018", 
+                    "24019", 
+                    "24020", 
+                    "24021", 
+                    "24022", 
+                    "24023", 
+                    "24024", 
+                    "24025", 
+                    "24026", 
+                    "24027", 
+                    "24028", 
+                    "24029", 
+                    "24030", 
+                    "24031", 
+                    "24032", 
+                    "24033", 
+                    "24034", 
+                    "24035", 
+                    "24036", 
+                    "24037", 
+                    "24038", 
+                    "24039", 
+                    "24040", 
+                    "24041", 
+                    "24042", 
+                    "24043", 
+                    "24044", 
+                    "24045", 
+                    "24046", 
+                    "24047", 
+                    "24048", 
+                    "24049", 
+                    "24050", 
+                    "24051", 
+                    "24052", 
+                    "24053", 
+                    "24054", 
+                    "24055", 
+                    "24056", 
+                    "24057", 
+                    "24058", 
+                    "24059", 
+                    "24060", 
+                    "24061", 
+                    "24062", 
+                    "24063", 
+                    "24064", 
+                    "24065", 
+                    "24066", 
+                    "24067", 
+                    "24068", 
+                    "24069", 
+                    "24070", 
+                    "24071", 
+                    "24072"
+                ], 
+                "RIP-Seq": [
+                    "24073", 
+                    "24074", 
+                    "24075", 
+                    "24076"
+                ], 
+                "Transcription Factor Binding Sites": [
+                    "24601", 
+                    "24602", 
+                    "24603", 
+                    "24604", 
+                    "24605", 
+                    "24606", 
+                    "24607", 
+                    "24608", 
+                    "24609", 
+                    "24610", 
+                    "24611", 
+                    "24612", 
+                    "24613", 
+                    "24614", 
+                    "24615", 
+                    "24616", 
+                    "24617", 
+                    "24618", 
+                    "24619", 
+                    "24620", 
+                    "24621", 
+                    "24622", 
+                    "24623", 
+                    "24624", 
+                    "24625", 
+                    "24626", 
+                    "24627", 
+                    "24628", 
+                    "24629", 
+                    "24630", 
+                    "24631", 
+                    "24632", 
+                    "24633", 
+                    "24634", 
+                    "24635", 
+                    "24636", 
+                    "24637", 
+                    "24638", 
+                    "24639", 
+                    "24640", 
+                    "24641", 
+                    "24642", 
+                    "24643", 
+                    "24644", 
+                    "24645", 
+                    "24646", 
+                    "24647", 
+                    "24648", 
+                    "24649", 
+                    "24650", 
+                    "24651", 
+                    "24652", 
+                    "24653", 
+                    "24654", 
+                    "24655", 
+                    "24656", 
+                    "24657", 
+                    "24658", 
+                    "24659", 
+                    "24660", 
+                    "24661", 
+                    "24662", 
+                    "24663", 
+                    "24664", 
+                    "24665", 
+                    "24666", 
+                    "24667", 
+                    "24668", 
+                    "24669", 
+                    "24670", 
+                    "24671", 
+                    "24672", 
+                    "24673", 
+                    "24674", 
+                    "24675", 
+                    "24676", 
+                    "24677", 
+                    "24678", 
+                    "24679", 
+                    "24680", 
+                    "24681", 
+                    "24682", 
+                    "24683", 
+                    "24684", 
+                    "24685", 
+                    "24686", 
+                    "24687", 
+                    "24688", 
+                    "24689", 
+                    "24690", 
+                    "24691", 
+                    "24692", 
+                    "24693", 
+                    "24694", 
+                    "24695", 
+                    "24696", 
+                    "24697", 
+                    "24698", 
+                    "24699", 
+                    "24700", 
+                    "24701", 
+                    "24702", 
+                    "24703",
+                    "24704",
+                    "24705",
+                    "24706",
+                    "24707",
+                    "24708",
+                    "24709"
+                ]
+            }
+        }
+    }
+}

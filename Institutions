@@ -1,0 +1,143 @@
+{
+    "terms": {
+        "30001": [
+            "UCSF-UBC-UCD", 
+            "UCSF-UBC-UCD"
+        ], 
+        "30002": [
+            "UCSD", 
+            "University of California, San Diego"
+        ], 
+        "30003": [
+            "Broad Institute", 
+            "Broad Institute"
+        ], 
+        "30004": [
+            "University of Washington", 
+            "University of Washington"
+        ], 
+        "30005": [
+            "Caltech(Wold)", 
+            "California Institute of Technology (Wold)"
+        ], 
+        "30006": [
+            "CSHL", 
+            "Cold Spring Harbor Laboratory"
+        ], 
+        "30007": [
+            "Genome Institute of Singapore", 
+            "Genome Institute of Singapore"
+        ], 
+        "30008": [
+            "CRG-Guigo", 
+            "Centre for Genomic Regulation-Guigo"
+        ], 
+        "30009": [
+            "Univeristy of Texas at Austin", 
+            "Univeristy of Texas at Austin"
+        ], 
+        "30010": [
+            "Caltech", 
+            "California Institute of Technology"
+        ], 
+        "30011": [
+            "RIKEN", 
+            "the Riken institute"
+        ], 
+        "30012": [
+            "UC Davis", 
+            "University of California,Davis"
+        ], 
+        "30013": [
+            "Univeristy of Chicago", 
+            "Univeristy of Chicago"
+        ], 
+        "30014": [
+            "UCSF-UBC", 
+            "UCSF-UBC"
+        ], 
+        "30015": [
+            "HudsonAlpha", 
+            "HudsonAlpha Institute for Biotechnology"
+        ], 
+        "30016": [
+            "University of Southern California", 
+            "University of Southern California"
+        ], 
+        "30017": [
+            "Yale University", 
+            "Yale University"
+        ], 
+        "30018": [
+            "Stanford University", 
+            "Stanford University"
+        ], 
+        "30019": [
+            "Duke University", 
+            "Duke University"
+        ], 
+        "30020": [
+            "Harvard University", 
+            "Harvard University"
+        ], 
+        "30021": [
+            "SunyAlbany", 
+            "University at Albany - SUNY"
+        ], 
+        "30022": [
+            "UNC", 
+            "The University of North Carolina at Chapel Hill"
+        ], 
+        "30023": [
+            "MIT", 
+            "Massachusetts Institute of Technology"
+        ], 
+        "30024": [
+            "UMass", 
+            "University of Massachusetts Amherst"
+        ], 
+        "30025": [
+            "WUSTL", 
+            "Washington University in St. Louis"
+        ],
+        "30026": [
+            "PSU-m (Hardison - Penn State University)", 
+            "PSU-m (Hardison - Penn State University)"
+        ], 
+        "30027": [
+            "CSHL-m (Gingeras - Cold Spring Harbor Laboratory)", 
+            "CSHL-m (Gingeras - Cold Spring Harbor Laboratory)"
+        ] 
+    }, 
+    "vocabulary": {
+        "Institution": [
+            "30001", 
+            "30002", 
+            "30003", 
+            "30004", 
+            "30005", 
+            "30006", 
+            "30007", 
+            "30008", 
+            "30009", 
+            "30010", 
+            "30011", 
+            "30012", 
+            "30013", 
+            "30014", 
+            "30015", 
+            "30016", 
+            "30017", 
+            "30018", 
+            "30019", 
+            "30020", 
+            "30021", 
+            "30022", 
+            "30023", 
+            "30024", 
+            "30025",
+            "30026", 
+            "30027" 
+        ]
+    }
+}

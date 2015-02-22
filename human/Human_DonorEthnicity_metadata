@@ -1,0 +1,53 @@
+{
+    "terms": {
+        "70001": [
+            "Caucasian and African American", 
+            "Donor ethnicity: Caucasian and African American"
+        ], 
+        "70002": [
+            "African-American", 
+            "Donor ethnicity: African-American"
+        ], 
+        "70004": [
+            "Caucasian", 
+            "Donor ethnicity: Caucasian"
+        ], 
+        "70008": [
+            "Indian/Arabian", 
+            "Donor ethnicity: Indian/Arabian"
+        ], 
+        "70009": [
+            "NA", 
+            "Donor ethnicity: NA"
+        ], 
+        "70010": [
+            "Hispanic", 
+            "Donor ethnicity: Hispanic"
+        ], 
+        "70011": [
+            "unknown", 
+            "Donor ethnicity: unknown"
+        ], 
+        "70012": [
+            "Asian/Hawaiian/Eskimo", 
+            "Donor ethnicity: Asian/Hawaiian/Eskimo"
+        ], 
+        "70013": [
+            "Asian", 
+            "Donor ethnicity: Asian"
+        ]
+    }, 
+    "vocabulary": {
+        "Donor Ethnicity": [
+            "70001", 
+            "70002", 
+            "70004", 
+            "70008", 
+            "70009", 
+            "70010", 
+            "70011", 
+            "70012", 
+            "70013"
+        ]
+    }
+}

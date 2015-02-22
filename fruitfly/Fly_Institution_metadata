@@ -1,0 +1,63 @@
+{
+    "terms": {
+        "60001": [
+            "other_lab", 
+            "other_lab"
+        ], 
+        "60002": [
+            "White Lab", 
+            "White Lab"
+        ], 
+        "60003": [
+            "Lepesant lab", 
+            "Lepesant lab"
+        ], 
+        "60004": [
+            "Upstate-Millipore", 
+            "Upstate-Millipore"
+        ], 
+        "60005": [
+            "Irvine Lab", 
+            "Irvine Lab"
+        ], 
+        "60006": [
+            "Paricio Lab", 
+            "Paricio Lab"
+        ], 
+        "60008": [
+            "Hawley Lab - Cathleen Lake", 
+            "Hawley Lab - Cathleen Lake"
+        ], 
+        "60009": [
+            "Covance", 
+            "Covance"
+        ], 
+        "60010": [
+            "White Lab/Aviva", 
+            "White Lab/Aviva"
+        ], 
+        "60011": [
+            "White Lab/Chemicon", 
+            "White Lab/Chemicon"
+        ], 
+        "60014": [
+            "Mattias Mannervik", 
+            "Mattias Mannervik"
+        ]
+    }, 
+    "vocabulary": {
+        "Institution": [
+            "60010", 
+            "60002", 
+            "60005", 
+            "60014", 
+            "60004", 
+            "60011", 
+            "60003", 
+            "60008", 
+            "60001", 
+            "60009", 
+            "60006"
+        ]
+    }
+}
