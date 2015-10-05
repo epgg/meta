@@ -596,6 +596,10 @@
             "spleen, fetal day112 U", 
             "spleen, fetal day112 Unknown"
         ], 
+        "12244": [
+            "Fetal_Spleen", 
+            "Fetal_Spleen"
+        ], 
         "12089": [
             "stomach, fetal day108 F", 
             "stomach, fetal day108 Female"
@@ -944,6 +948,22 @@
             "renal pelvis, right, fetal day120 M", 
             "renal pelvis, right, fetal day120 Male"
         ], 
+        "12240": [
+            "Fetal_Renal_Pelvis_Left", 
+            "Fetal_Renal_Pelvis_Left"
+        ], 
+        "12245": [
+            "Fetal_Renal_Pelvis_Right", 
+            "Fetal_Renal_Pelvis_Right"
+        ], 
+        "12241": [
+            "Fetal_Renal_Cortex_Left", 
+            "Fetal_Renal_Cortex_Left"
+        ], 
+        "12243": [
+            "Fetal_Renal_Cortex_Right", 
+            "Fetal_Renal_Cortex_Right"
+        ], 
         "12178": [
             "Fetal Skin", 
             "Fetal Skin"
@@ -1136,6 +1156,10 @@
             "Fetal_Muscle_Trunk", 
             "Fetal_Muscle_Trunk"
         ], 
+        "12242": [
+            "Fetal_Muscle_Upper_Trunk", 
+            "Fetal_Muscle_Upper_Trunk"
+        ], 
         "12226": [
             "Fetal_Muscle_Leg", 
             "Fetal_Muscle_Leg"
@@ -1289,7 +1313,7 @@
             "CD4 naive primary cells"
         ], 
         "13026": [
-            "Th17", 
+            "Th17_Primary_Cells", 
             "T helper 17 cell"
         ], 
         "13027": [
@@ -2993,7 +3017,11 @@
                     "12211", 
                     "12220", 
                     "12237", 
-                    "12238"
+                    "12238",
+                    "12240",
+                    "12241",
+                    "12243",
+                    "12245"
                 ], 
                 "Fetal Liver": [
                     "12216"
@@ -3097,7 +3125,8 @@
                     "12233", 
                     "12234", 
                     "12235", 
-                    "12236"
+                    "12236",
+                    "12242"
                 ], 
                 "Fetal Ovary": [
                     "12239"
@@ -3123,7 +3152,8 @@
                     "12179"
                 ], 
                 "Fetal Spleen": [
-                    "12088"
+                    "12088",
+                    "12244"
                 ], 
                 "Fetal Stomach": [
                     "12089", 

@@ -1,0 +1,53 @@
+{
+    "terms": {
+        "30001": [
+            "Schier", 
+            "Schier"
+        ], 
+        "30002": [
+            "Cairns", 
+            "Cairns"
+        ], 
+        "30003": [
+            "Mathavan", 
+            "Mathavan"
+        ], 
+        "30004": [
+            "Collas", 
+            "Collas"
+        ], 
+        "30005": [
+            "Bartel", 
+            "Bartel"
+        ], 
+        "30006": [
+            "Zon", 
+            "Zon"
+        ], 
+        "30007": [
+            "Gomez-Skarmeta", 
+            "Gomez-Skarmeta"
+        ], 
+        "30008": [
+            "Liu", 
+            "Liu"
+        ],
+        "30009": [
+            "Wang", 
+            "Ting Wang Lab"
+        ]
+    }, 
+    "vocabulary": {
+        "Lab": [
+            "30001", 
+            "30006", 
+            "30008", 
+            "30002", 
+            "30007", 
+            "30003", 
+            "30005", 
+            "30004",
+            "30009"
+        ]
+    }
+}
