@@ -107,7 +107,20 @@
         "30027": [
             "CSHL-m (Gingeras - Cold Spring Harbor Laboratory)", 
             "CSHL-m (Gingeras - Cold Spring Harbor Laboratory)"
-        ] 
+        ],
+        "30028": [
+            "ENCODE",
+            "ENCODE Consortium/ENCODE Processing Pipeline"
+        ],
+        "30029": [
+            "Salk",
+            "Salk Institute"
+        ],
+        "30030": [
+            "FSU",
+            "Florida State University"
+        ]
+
     }, 
     "vocabulary": {
         "Institution": [
@@ -137,7 +150,10 @@
             "30024", 
             "30025",
             "30026", 
-            "30027" 
+            "30027",
+            "30028",
+            "30029",
+            "30030" 
         ]
     }
 }

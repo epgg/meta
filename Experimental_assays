@@ -320,6 +320,10 @@
             "DNase Control", 
             "DNase Control"
         ], 
+        "23007": [
+            "RepliChip", 
+            "Quantifying DNA replication time using oligonucleotide arrays"
+        ], 
         "24001": [
             "CTCF", 
             "Transcriptional repressor CTCF"
@@ -1064,6 +1068,58 @@
             "H3ac", 
             "H3ac"
         ], 
+        "24711": [
+            "GABPA", 
+            "GABPA"
+        ], 
+        "24712": [
+            "GATA4", 
+            "GATA4"
+        ], 
+        "24713": [
+            "JUN", 
+            "JUN"
+        ], 
+        "24714": [
+            "KAT2A", 
+            "KAT2A"
+        ], 
+        "24715": [
+            "MYB", 
+            "MYB"
+        ], 
+        "24716": [
+            "MYC", 
+            "MYC"
+        ], 
+        "24717": [
+            "MYOD1", 
+            "MYOD1"
+        ], 
+        "24718": [
+            "MYOG", 
+            "MYOG"
+        ], 
+        "24719": [
+            "POLR2A", 
+            "POLR2A"
+        ], 
+        "24720": [
+            "POLR2AphosphoS2", 
+            "POLR2AphosphoS2"
+        ], 
+        "24721": [
+            "POLR2AphosphoS5", 
+            "POLR2AphosphoS5"
+        ], 
+        "24722": [
+            "RCOR1", 
+            "RCOR1"
+        ], 
+        "24723": [
+            "ZMIZ1", 
+            "ZMIZ1"
+        ], 
         "25001": [
             "Exon array", 
             "Exon array"
@@ -1258,7 +1314,8 @@
                     "23003", 
                     "23004", 
                     "23005", 
-                    "23006"
+                    "23006",
+                    "23007"
                 ]
             }, 
             "Expression": [
@@ -1469,7 +1526,20 @@
                     "24706",
                     "24707",
                     "24708",
-                    "24709"
+                    "24709",
+                    "24711",
+                    "24712",
+                    "24713",
+                    "24714",
+                    "24715",
+                    "24716",
+                    "24717",
+                    "24718",
+                    "24719",
+                    "24720",
+                    "24721",
+                    "24722",
+                    "24723"
                 ]
             }
         }

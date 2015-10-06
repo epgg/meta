@@ -1,0 +1,628 @@
+{
+    "terms": {
+        "10001": [
+            "3134", 
+            "3134"
+        ], 
+        "10002": [
+            "416B", 
+            "416B"
+        ], 
+        "10003": [
+            "46C", 
+            "46C"
+        ], 
+        "10004": [
+            "A20", 
+            "A20"
+        ], 
+        "10005": [
+            "B cell", 
+            "B cell"
+        ], 
+        "10006": [
+            "C2C12", 
+            "C2C12"
+        ], 
+        "10007": [
+            "C3H10T1/2", 
+            "C3H10T1/2"
+        ], 
+        "10008": [
+            "CD4-positive helper T cell", 
+            "CD4-positive helper T cell"
+        ], 
+        "10009": [
+            "CD4-positive, CD25-positive, alpha-beta regulatory T cell", 
+            "CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+        ], 
+        "10010": [
+            "CH12.LX", 
+            "CH12.LX"
+        ], 
+        "10011": [
+            "CMP", 
+            "CMP"
+        ], 
+        "10012": [
+            "ES-Bruce4", 
+            "ES-Bruce4"
+        ], 
+        "10013": [
+            "ES-CJ7", 
+            "ES-CJ7"
+        ], 
+        "10014": [
+            "ES-D3", 
+            "ES-D3"
+        ], 
+        "10015": [
+            "ES-E14", 
+            "ES-E14"
+        ], 
+        "10016": [
+            "G1E", 
+            "G1E"
+        ], 
+        "10017": [
+            "G1E-ER4", 
+            "G1E-ER4"
+        ], 
+        "10018": [
+            "GMP", 
+            "GMP"
+        ], 
+        "10019": [
+            "J185a", 
+            "J185a"
+        ], 
+        "10020": [
+            "L-1210 cell", 
+            "L-1210 cell"
+        ], 
+        "10021": [
+            "MEL cell line", 
+            "MEL cell line"
+        ], 
+        "10022": [
+            "MEL-GATA-1-ER", 
+            "MEL-GATA-1-ER"
+        ], 
+        "10023": [
+            "MEP", 
+            "MEP"
+        ], 
+        "10024": [
+            "NIH3T3", 
+            "NIH3T3"
+        ], 
+        "10025": [
+            "Patski", 
+            "Patski"
+        ], 
+        "10026": [
+            "Purkinje cell", 
+            "Purkinje cell"
+        ], 
+        "10027": [
+            "TT2", 
+            "TT2"
+        ], 
+        "10028": [
+            "WW6", 
+            "WW6"
+        ], 
+        "10029": [
+            "ZHBTc4-mESC", 
+            "ZHBTc4-mESC"
+        ], 
+        "10030": [
+            "adrenal gland", 
+            "adrenal gland"
+        ], 
+        "10031": [
+            "bone marrow", 
+            "bone marrow"
+        ], 
+        "10032": [
+            "bone marrow macrophage", 
+            "bone marrow macrophage"
+        ], 
+        "10033": [
+            "brain", 
+            "brain"
+        ], 
+        "10034": [
+            "brown adipose tissue", 
+            "brown adipose tissue"
+        ], 
+        "10035": [
+            "c-Kit-negative CD71-positive TER-119-positive erythroid progenitor cells", 
+            "c-Kit-negative CD71-positive TER-119-positive erythroid progenitor cells"
+        ], 
+        "10036": [
+            "c-Kit-positive CD71-negative TER-119-negative erythroid progenitor cells", 
+            "c-Kit-positive CD71-negative TER-119-negative erythroid progenitor cells"
+        ], 
+        "10037": [
+            "c-Kit-positive CD71-positive TER-119-negative erythroid progenitor cells", 
+            "c-Kit-positive CD71-positive TER-119-negative erythroid progenitor cells"
+        ], 
+        "10038": [
+            "c-Kit-positive CD71-positive TER-119-positive erythroid progenitor cells", 
+            "c-Kit-positive CD71-positive TER-119-positive erythroid progenitor cells"
+        ], 
+        "10039": [
+            "central nervous system", 
+            "central nervous system"
+        ], 
+        "10040": [
+            "cerebellar granule layer", 
+            "cerebellar granule layer"
+        ], 
+        "10041": [
+            "cerebellum", 
+            "cerebellum"
+        ], 
+        "10042": [
+            "cerebral cortex, layer 5", 
+            "cerebral cortex, layer 5"
+        ], 
+        "10043": [
+            "colon", 
+            "colon"
+        ], 
+        "10044": [
+            "cortical plate", 
+            "cortical plate"
+        ], 
+        "10045": [
+            "duodenum", 
+            "duodenum"
+        ], 
+        "10046": [
+            "ectodermal cell", 
+            "ectodermal cell"
+        ], 
+        "10047": [
+            "embryoid body", 
+            "embryoid body"
+        ], 
+        "10048": [
+            "embryonic facial prominence", 
+            "embryonic facial prominence"
+        ], 
+        "10049": [
+            "embryonic fibroblast", 
+            "embryonic fibroblast"
+        ], 
+        "10050": [
+            "endoderm", 
+            "endoderm"
+        ], 
+        "10051": [
+            "epiblast cell", 
+            "epiblast cell"
+        ], 
+        "10052": [
+            "erythroblast", 
+            "erythroblast"
+        ], 
+        "10053": [
+            "fat pad", 
+            "fat pad"
+        ], 
+        "10054": [
+            "female gonad", 
+            "female gonad"
+        ], 
+        "10055": [
+            "fibroblast", 
+            "fibroblast"
+        ], 
+        "10056": [
+            "forebrain", 
+            "forebrain"
+        ], 
+        "10057": [
+            "forelimb bud", 
+            "forelimb bud"
+        ], 
+        "10058": [
+            "frontal cortex", 
+            "frontal cortex"
+        ], 
+        "10059": [
+            "gonadal fat pad", 
+            "gonadal fat pad"
+        ], 
+        "10060": [
+            "heart", 
+            "heart"
+        ], 
+        "10061": [
+            "hematopoietic multipotent progenitor cell", 
+            "hematopoietic multipotent progenitor cell"
+        ], 
+        "10062": [
+            "hematopoietic stem cell", 
+            "hematopoietic stem cell"
+        ], 
+        "10063": [
+            "hindbrain", 
+            "hindbrain"
+        ], 
+        "10064": [
+            "hindlimb bud", 
+            "hindlimb bud"
+        ], 
+        "10065": [
+            "induced T-regulatory cell", 
+            "induced T-regulatory cell"
+        ], 
+        "10066": [
+            "intestine", 
+            "intestine"
+        ], 
+        "10067": [
+            "kidney", 
+            "kidney"
+        ], 
+        "10068": [
+            "large intestine", 
+            "large intestine"
+        ], 
+        "10069": [
+            "leukemia stem cell", 
+            "leukemia stem cell"
+        ], 
+        "10070": [
+            "limb", 
+            "limb"
+        ], 
+        "10071": [
+            "liver", 
+            "liver"
+        ], 
+        "10072": [
+            "lung", 
+            "lung"
+        ], 
+        "10073": [
+            "mammary gland", 
+            "mammary gland"
+        ], 
+        "10074": [
+            "megakaryocyte", 
+            "megakaryocyte"
+        ], 
+        "10075": [
+            "megakaryocyte-erythroid progenitor cell", 
+            "megakaryocyte-erythroid progenitor cell"
+        ], 
+        "10076": [
+            "mesoderm", 
+            "mesoderm"
+        ], 
+        "10077": [
+            "midbrain", 
+            "midbrain"
+        ], 
+        "10078": [
+            "myocyte", 
+            "myocyte"
+        ], 
+        "10079": [
+            "naive thymus-derived CD4-positive, alpha-beta T cell", 
+            "naive thymus-derived CD4-positive, alpha-beta T cell"
+        ], 
+        "10080": [
+            "neural progenitor cell", 
+            "neural progenitor cell"
+        ], 
+        "10081": [
+            "neural tube", 
+            "neural tube"
+        ], 
+        "10082": [
+            "neurectodermal cell", 
+            "neurectodermal cell"
+        ], 
+        "10083": [
+            "olfactory bulb", 
+            "olfactory bulb"
+        ], 
+        "10084": [
+            "placenta", 
+            "placenta"
+        ], 
+        "10085": [
+            "retina", 
+            "retina"
+        ], 
+        "10086": [
+            "skeletal muscle tissue", 
+            "skeletal muscle tissue"
+        ], 
+        "10087": [
+            "small intestine", 
+            "small intestine"
+        ], 
+        "10088": [
+            "spleen", 
+            "spleen"
+        ], 
+        "10089": [
+            "splenic B cell", 
+            "splenic B cell"
+        ], 
+        "10090": [
+            "stem cell of epidermis", 
+            "stem cell of epidermis"
+        ], 
+        "10091": [
+            "stomach", 
+            "stomach"
+        ], 
+        "10092": [
+            "subcutaneous adipose tissue", 
+            "subcutaneous adipose tissue"
+        ], 
+        "10093": [
+            "telencephalon", 
+            "telencephalon"
+        ], 
+        "10094": [
+            "testis", 
+            "testis"
+        ], 
+        "10095": [
+            "thymus", 
+            "thymus"
+        ], 
+        "10096": [
+            "urinary bladder", 
+            "urinary bladder"
+        ]
+    }, 
+    "vocabulary": {
+        "Life stage": {
+            "adult": [
+                "10003", 
+                "10005", 
+                "10008", 
+                "10009", 
+                "10011", 
+                "10018", 
+                "10023", 
+                "10026", 
+                "10030", 
+                "10031", 
+                "10032", 
+                "10033", 
+                "10034", 
+                "10040", 
+                "10041", 
+                "10042", 
+                "10043", 
+                "10044", 
+                "10045", 
+                "10049", 
+                "10053", 
+                "10054", 
+                "10055", 
+                "10058", 
+                "10059", 
+                "10060", 
+                "10061", 
+                "10062", 
+                "10065", 
+                "10067", 
+                "10068", 
+                "10069", 
+                "10071", 
+                "10072", 
+                "10073", 
+                "10075", 
+                "10079", 
+                "10080", 
+                "10083", 
+                "10084", 
+                "10085", 
+                "10086", 
+                "10087", 
+                "10088", 
+                "10089", 
+                "10090", 
+                "10091", 
+                "10092", 
+                "10093", 
+                "10094", 
+                "10095", 
+                "10096"
+            ], 
+            "adult, embryonic": [
+                "10071"
+            ], 
+            "embryonic": [
+                "10012", 
+                "10013", 
+                "10014", 
+                "10015", 
+                "10027", 
+                "10028", 
+                "10029", 
+                "10033", 
+                "10035", 
+                "10036", 
+                "10037", 
+                "10038", 
+                "10039", 
+                "10046", 
+                "10047", 
+                "10048", 
+                "10050", 
+                "10051", 
+                "10052", 
+                "10056", 
+                "10057", 
+                "10060", 
+                "10063", 
+                "10064", 
+                "10066", 
+                "10067", 
+                "10070", 
+                "10071", 
+                "10072", 
+                "10074", 
+                "10076", 
+                "10077", 
+                "10081", 
+                "10082", 
+                "10090", 
+                "10091"
+            ], 
+            "postnatal": [
+                "10016", 
+                "10017", 
+                "10056", 
+                "10060", 
+                "10063", 
+                "10071", 
+                "10077", 
+                "10085", 
+                "10086", 
+                "10095"
+            ], 
+            "unknown": [
+                "10001", 
+                "10002", 
+                "10004", 
+                "10006", 
+                "10007", 
+                "10010", 
+                "10015", 
+                "10019", 
+                "10020", 
+                "10021", 
+                "10022", 
+                "10024", 
+                "10025", 
+                "10052", 
+                "10078"
+            ]
+        }, 
+        "Sample": {
+            "immortalized cell line": [
+                "10001", 
+                "10002", 
+                "10004", 
+                "10006", 
+                "10007", 
+                "10010", 
+                "10016", 
+                "10017", 
+                "10019", 
+                "10020", 
+                "10021", 
+                "10022", 
+                "10024", 
+                "10025"
+            ], 
+            "in vitro differentiated cells": [
+                "10027", 
+                "10046", 
+                "10050", 
+                "10051", 
+                "10052", 
+                "10076", 
+                "10078", 
+                "10080", 
+                "10082"
+            ], 
+            "primary cell": [
+                "10003", 
+                "10005", 
+                "10008", 
+                "10009", 
+                "10011", 
+                "10018", 
+                "10023", 
+                "10026", 
+                "10032", 
+                "10035", 
+                "10036", 
+                "10037", 
+                "10038", 
+                "10042", 
+                "10049", 
+                "10052", 
+                "10055", 
+                "10061", 
+                "10062", 
+                "10065", 
+                "10075", 
+                "10079", 
+                "10089"
+            ], 
+            "stem cell": [
+                "10012", 
+                "10013", 
+                "10014", 
+                "10015", 
+                "10027", 
+                "10028", 
+                "10029", 
+                "10069", 
+                "10090"
+            ], 
+            "tissue": [
+                "10030", 
+                "10031", 
+                "10033", 
+                "10034", 
+                "10039", 
+                "10040", 
+                "10041", 
+                "10042", 
+                "10043", 
+                "10044", 
+                "10045", 
+                "10047", 
+                "10048", 
+                "10053", 
+                "10054", 
+                "10056", 
+                "10057", 
+                "10058", 
+                "10059", 
+                "10060", 
+                "10063", 
+                "10064", 
+                "10066", 
+                "10067", 
+                "10068", 
+                "10070", 
+                "10071", 
+                "10072", 
+                "10073", 
+                "10074", 
+                "10076", 
+                "10077", 
+                "10081", 
+                "10083", 
+                "10084", 
+                "10085", 
+                "10086", 
+                "10087", 
+                "10088", 
+                "10091", 
+                "10092", 
+                "10093", 
+                "10094", 
+                "10095", 
+                "10096"
+            ]
+        }
+    }
+}
