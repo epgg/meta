@@ -1,0 +1,25 @@
+{
+"terms":{
+10001:[
+    "0hpi; ring stage",
+    "0hpi; ring stage"
+],
+10002:[
+    "18 hpi; early trophozoite stage",
+    "18 hpi; early trophozoite stage"
+],
+10003:[
+    "36 hpi; late schizont stage",
+    "36 hpi; late schizont stage"
+]
+},
+    "vocabulary": {
+        "Sample": {
+            "Developmental Stage": [
+            10001,
+            10002,
+            10003
+            ]
+        }
+    }
+}

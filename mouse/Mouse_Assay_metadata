@@ -8,6 +8,10 @@
             "ChIA-PET", 
             "Chromatin interaction analysis by paired-end tag sequencing"
         ], 
+        "150": [
+            "5C", 
+            "Carbon-copy chromosome conformation capture"
+        ], 
         "20001": [
             "RnaSeq (Sequencing analysis of RNA expression)", 
             "RnaSeq (Sequencing analysis of RNA expression)"
@@ -344,6 +348,7 @@
             ], 
             "Long Range Interaction": [
                 "148", 
+                "150", 
                 "149"
             ], 
             "Other Assay": [

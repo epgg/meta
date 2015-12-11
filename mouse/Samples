@@ -308,6 +308,22 @@
             "E14.5-limb", 
             "E14.5-limb"
         ], 
+        "10080": [
+            "Th1", 
+            "T-helper cells (Th1)"
+        ], 
+        "10081": [
+            "mESC (mouse embryonic stem cells)", 
+            "mESC (mouse embryonic stem cells)"
+        ], 
+        "10082": [
+            "NPC (mES-derived neuronal progenitor cells)", 
+            "NPC (mES-derived neuronal progenitor cells)"
+        ], 
+        "10083": [
+            "MEF (Primary mouse fibroblasts)", 
+            "MEF (Primary mouse fibroblasts)"
+        ], 
         "10078": [
             "E14.5-liver", 
             "E14.5-liver"
@@ -333,6 +349,9 @@
                     "10053", 
                     "10059", 
                     "10060", 
+                    "10081", 
+                    "10082", 
+                    "10083", 
                     "10064"
                 ], 
                 "Normal Cell Lines": [
@@ -363,6 +382,7 @@
                     "10068", 
                     "10069", 
                     "10070", 
+                    "10080", 
                     "10071"
                 ]
             }, 
