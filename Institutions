@@ -131,6 +131,10 @@
         "30033": [
         "University of California, Riverside",
         "University of California, Riverside"
+        ],
+        "30034": [
+            "Emory",
+            "Emory"
         ]
 
     }, 
@@ -168,7 +172,8 @@
             "30030",
             "30031",
             "30032",
-            "30033" 
+            "30033",
+            "30034" 
         ]
     }
 }
