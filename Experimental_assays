@@ -24,6 +24,26 @@
             "methylCRF", 
             "methylation prediction by methylCRF algorithm (PMID:23804401)"
         ], 
+        "21007": [
+            "MeDIP-chip", 
+            "methylated DNA immunoprecipitation microarray"
+        ], 
+        "21008": [
+            "hMeDIP-Seq", 
+            "hydroxymethylated DNA immunoprecipitation"
+        ], 
+        "21009": [
+            "TAB-Seq", 
+            "Tet-assisted bisulfite sequencing"
+        ], 
+        "21010": [
+            "oxBS-Seq", 
+            "oxidative bisulfite sequencing"
+        ], 
+        "21011": [
+            "hMe-Seal", 
+            "Hydroxymethyl selective chemical labelling"
+        ], 
         "22000": [
             "ChIP-Seq control", 
             "ChIP-Seq control"
@@ -1270,7 +1290,14 @@
                     "21003", 
                     "21004", 
                     "21005",
-                    "21006"
+                    "21006",
+                    "21007"
+                ], 
+                "DNA Hydroxymethylation": [
+                    "21008",
+                    "21009",
+                    "210010",
+                    "210011"
                 ], 
                 "Histone Mark": {
                     "H2A": {

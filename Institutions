@@ -135,6 +135,18 @@
         "30034": [
             "Emory",
             "Emory"
+        ],
+        "30035": [
+            "University of Oslo",
+            "University of Oslo"
+        ],
+        "30036": [
+            "University of Utah",
+            "University of Utah"
+        ],
+        "30037": [
+            "BIG",
+            "Beijing Institute of Genomics"
         ]
 
     }, 
@@ -173,7 +185,11 @@
             "30031",
             "30032",
             "30033",
-            "30034" 
+            "30034", 
+            "30034", 
+            "30035", 
+            "30036", 
+            "30037" 
         ]
     }
 }
