@@ -2208,6 +2208,10 @@
             "Breast_Fibroblast_Primary_Cells", 
             "Breast_Fibroblast_Primary_Cells"
         ], 
+        "13308": [
+            "B-cells", 
+            "Normal B-cells"
+        ], 
         "14001": [
             "HeLa-S3", 
             "Human epithelial carcinoma cell line S3"
@@ -2408,6 +2412,22 @@
             "UPSC", 
             "uterine papillary serous carcinoma"
         ], 
+        "14051": [
+            "KBM7", 
+            "human myeloid leukemia cell line, KBM-7"
+        ], 
+        "14052": [
+            "MHH-CALL-4", 
+            "MHH-CALL-4 B-cell acute lymphoblastic leukemia"
+        ], 
+        "14054": [
+            "lymphoma RL", 
+            "lymphoma RL cell-line"
+        ], 
+        "14053": [
+            "Primary_tumor_B-cells", 
+            "Primary_tumor_B-cells_acute_lymphoblastic_leukemia"
+        ], 
         "15001": [
             "Placenta_Amnion", 
             "Placenta_Amnion"
@@ -2427,6 +2447,534 @@
         "15005": [
             "Placenta_Basal_Plate", 
             "Placenta_Basal_Plate"
+        ],
+        "15006": [
+            "A-172",
+            "A-172 glioblastoma cell line"
+        ],
+        "15007": [
+            "A-375",
+            "A-375 malignant melanoma cell line"
+        ],
+        "15008": [
+            "A-673",
+            "A-673 Ewing's sarcoma cell line"
+        ],
+        "15009": [
+            "ACHN",
+            "Renal cell adenocarcinoma cell line"
+        ],
+        "15010": [
+            "Ammon Horn",
+            "Ammon's horn from hippocampus"
+        ],
+        "15011": [
+            "Amniotic stem cell",
+            "Amniotic stem cell"
+        ],
+        "15012": [
+            "articular chondrocyte",
+            "articular chondrocyte of knee joint"
+        ],
+        "15013": [
+            "BG01",
+            "BG01V embryonic stem cell"
+        ],
+        "15014": [
+            "Bipolar neuron",
+            "Bipolar spindle neuron"
+        ],
+        "15015": [
+            "BSMC",
+            "Bronchial smooth muscle cell"
+        ],
+        "15016": [
+            "Bronchus fibroblast",
+            "Bronchus fibroblast of lung"
+        ],
+        "15017": [
+            "Caki2",
+            "Clear cell carcinoma of kidney"
+        ],
+        "15018": [
+            "Fetal Eye",
+            "Fetal Eye"
+        ],
+        "15019": [
+            "Cardiac mesoderm",
+            "Cardiac mesoderm"
+        ],
+        "15020": [
+            "Cardiac muscle cell",
+            "Cardiac muscle cell"
+        ],
+        "15021": [
+            "Cardiac ventricle fibroblast",
+            "Cardiac ventricle fibroblast"
+        ],
+        "15022": [
+            "CD1c-positive myeloid dendritic cell",
+            "CD1c-positive myeloid dendritic cell"
+        ],
+        "15023": [
+            "Cerebellar cortex",
+            "Cerebellar cortex"
+        ],
+        "15024": [
+            "Adult_CGN",
+            "Adult cerebellar granule cell"
+        ],
+        "15025": [
+            "Child_CGN",
+            "Children cerebellar granule cell"
+        ],
+        "15026": [
+            "CyT49",
+            "CyT49 embryonic stem cell"
+        ],
+        "15027": [
+            "Daoy",
+            "Desmoplastic cerebellar medulloblastoma cell line"
+        ],
+        "15028": [
+            "DE",
+            "Definitive endoderm"
+        ],
+        "15029": [
+            "HDBEC",
+            "Dermal blood endothelial cells"
+        ],
+        "15030": [
+            "Diencephalon",
+            "diencephalon"
+        ],
+        "15031": [
+            "DoHH2",
+            "non-Hodgkin's B-cell line"
+        ],
+        "15032": [
+            "Embryonic facial prominence",
+            "embryonic facial prominence"
+        ],
+        "15033": [
+            "Endocrine cell",
+            "endocrine cell"
+        ],
+        "15034": [
+            "HCAEC",
+            "Human coronary artery endothelial cells"
+        ],
+        "15035": [
+            "HUAEC",
+            "Umbilical artery epithelial cells"
+        ],
+        "15036": [
+            "Erythroid progenitor cell",
+            "erythroid progenitor cell"
+        ],
+        "15037": [
+            "Eye",
+            "eye"
+        ],
+        "15038": [
+            "fibroblast of arm",
+            "fibroblast of arm"
+        ],
+        "15039": [
+            "fibroblast of upper leg skin",
+            "fibroblast of upper leg skin"
+        ],
+        "15040": [
+            "Frontal cortex",
+            "frontal cortex"
+        ],
+        "15041": [
+            "Gastrocnemius medialis",
+            "gastrocnemius medialis"
+        ],
+        "15042": [
+            "GC",
+            "Germinal center"
+        ],
+        "15043": [
+            "GP",
+            "Globus pallidus"
+        ],
+        "15044": [
+            "Glomerular VEC",
+            "Glomerular visceral epithelial cell"
+        ],
+        "15045": [
+            "GM06999",
+            "GM06999 B-Lymphocyte"
+        ],
+        "15046": [
+            "H4",
+            "Human neuroglioma cell line"
+        ],
+        "15047": [
+            "H54",
+            "H54 (D54) Human glioblastoma"
+        ],
+        "15048": [
+            "HHFK",
+            "Human hair follicular keratinocyte"
+        ],
+        "15049": [
+            "HAP1",
+            "near-haploid human cell line derived from the male chronic myelogenous leukemia (CML) cell line KBM-7"
+        ],
+        "15050": [
+            "Hematopoietic MPP",
+            "Hematopoietic multipotent progenitor cell"
+        ],
+        "15051": [
+            "Embryonic hepatocyte",
+            "Embryonic hepatocyte"
+        ],
+        "15052": [
+            "HS-5",
+            "Human bone marrow stromal cells"
+        ],
+        "15053": [
+            "HT1080",
+            "Human fibrosarcoma cell line"
+        ],
+        "15054": [
+            "HT-29",
+            "Human colorectal adenocarcinoma cell line"
+        ],
+        "15055": [
+            "hTERT-HM",
+            "Telomerase immortalized human myometrial cell line"
+        ],
+        "15056": [
+            "Inferior parietal cortex",
+            "inferior parietal cortex"
+        ],
+        "15057": [
+            "Pancreatic islets",
+            "Islet of Langerhans"
+        ],
+        "15058": [
+            "Islet precursor cell",
+            "islet precursor cell"
+        ],
+        "15059": [
+            "Karpas-422",
+            "KARPAS 422 B cell lymphoma"
+        ],
+        "15060": [
+            "KBM-7",
+            "Chronic myelogenous leukemia cell line"
+        ],
+        "15061": [
+            "Kidney epithelial cell",
+            "kidney epithelial cell"
+        ],
+        "15062": [
+            "Fetal Kidney",
+            "Fetal Kidney"
+        ],
+        "15063": [
+            "L1-S8",
+            "L1-S8 induced pluripotent stem cell line"
+        ],
+        "15064": [
+            "L1-S8R",
+            "L1-S8R induced pluripotent stem cell line"
+        ],
+        "15065": [
+            "Lateral plate mesoderm",
+            "lateral plate mesoderm"
+        ],
+        "15066": [
+            "Fetal Liver",
+            "Fetal liver"
+        ],
+        "15067": [
+            "Loucy",
+            "T-cell acute lymphoblastic leukemia cell line"
+        ],
+        "15068": [
+            "LoVo",
+            "Colorectal adenocarcinoma cell line"
+        ],
+        "15069": [
+            "HLMVEC",
+            "Human Lung Microvascular Endothelial Cells"
+        ],
+        "15070": [
+            "HMMEC",
+            "Human Mammary Microvascular Endothelial Cells"
+        ],
+        "15071": [
+            "Mesangial cell",
+            "mesangial cell"
+        ],
+        "15072": [
+            "Mesothelium",
+            "mesothelium"
+        ],
+        "15073": [
+            "Metanephros",
+            "metanephros"
+        ],
+        "15074": [
+            "MG63",
+            "Human osteosarcoma fibroblast cell line"
+        ],
+        "15075": [
+            "Midbrain",
+            "midbrain"
+        ],
+        "15076": [
+            "MM.1S",
+            "immunoglobulin A lambda myeloma B lymphoblast cell line"
+        ],
+        "15077": [
+            "Myeloid cell",
+            "myeloid cell"
+        ],
+        "15078": [
+            "Myotube",
+            "Myotube cell"
+        ],
+        "15079": [
+            "NAMALWA",
+            "Burkitt's lymphoma B lymphoblast cell line"
+        ],
+        "15080": [
+            "HNEpC",
+            "Primary Human Nasal Epithelial Cells"
+        ],
+        "15081": [
+            "NCI-H226",
+            "Squamous cell carcinoma"
+        ],
+        "15082": [
+            "NCI-H460",
+            "large cell lung carcinoma cell line"
+        ],
+        "15083": [
+            "NCNC",
+            "Lymphoblastoid"
+        ],
+        "15084": [
+            "Embryonic neural cell",
+            "Embryonic neural cell"
+        ],
+        "15085": [
+            "Embryonic neural crest",
+            "Embryonic neural crest"
+        ],
+        "15086": [
+            "Embryonic neural progenitor",
+            "Embryonic neural progenitor"
+        ],
+        "15087": [
+            "Adult occipital lobe",
+            "Adult occipital lobe"
+        ],
+        "15088": [
+            "Fetal occipital lobe",
+            "Fetal occipital lobe"
+        ],
+        "15089": [
+            "OCI-LY7",
+            "B-cell Non-Hodgkin lymphoma cell line"
+        ],
+        "15090": [
+            "Fetal parietal lobe",
+            "Fetal parietal lobe"
+        ],
+        "15091": [
+            "PC-3",
+            "Prostate adenocarcinoma cell line, derived from metastatic bone"
+        ],
+        "15092": [
+            "PC-9",
+            "Human adenocarcinoma from lung tissue"
+        ],
+        "15093": [
+            "HPcF",
+            "Human Pericardial Fibroblast Cells"
+        ],
+        "15094": [
+            "Pericyte",
+            "Pericyte cell"
+        ],
+        "15095": [
+            "Pons",
+            "Pons"
+        ],
+        "15096": [
+            "Posterior foregut",
+            "posterior foregut cell line"
+        ],
+        "15097": [
+            "Primitive gut cell line",
+            "primitive gut"
+        ],
+        "15098": [
+            "Prostate gland",
+            "prostate gland"
+        ],
+        "15099": [
+            "Purkinje cell",
+            "Purkinje cell"
+        ],
+        "15100": [
+            "Putamen",
+            "putamen"
+        ],
+        "15101": [
+            "Pyramidal cell",
+            "pyramidal cell"
+        ],
+        "15102": [
+            "Treg",
+            "regulatory T-lymphocyte"
+        ],
+        "15103": [
+            "Fetal retina",
+            "Fetal retina"
+        ],
+        "15104": [
+            "Adult right lobe of liver",
+            "Adult right lobe of liver"
+        ],
+        "15105": [
+            "RKO",
+            "Colon epithelial carcinoma"
+        ],
+        "15106": [
+            "RPMI8226",
+            "B-lymphoblast myeloma cell line"
+        ],
+        "15107": [
+            "SJCRH30",
+            "Rhabdomyosarcoma cell line"
+        ],
+        "15108": [
+            "SJSA1",
+            "Osteosarcoma cell line"
+        ],
+        "15109": [
+            "SK-MEL-5",
+            "Malignant melanoma cell line"
+        ],
+        "15110": [
+            "SK-N-DZ",
+            "Neuroblastoma cell line, derived from metastatic bone marrow"
+        ],
+        "15111": [
+            "Smooth muscle cell",
+            "embryonic smooth muscle cell"
+        ],
+        "15112": [
+            "Bladder smooth muscle cells",
+            "Bladder smooth muscle cells"
+        ],
+        "15113": [
+            "HCASMC",
+            "Human Coronary Artery Smooth Muscle Cells"
+        ],
+        "15114": [
+            "HPASMC",
+            "Human Pulmonary Artery Smooth Muscle Cells"
+        ],
+        "15115": [
+            "HUASMC",
+            "Human umbilical arterial smooth muscle cells"
+        ],
+        "15116": [
+            "HTSMC",
+            "Tracheal Smooth Muscle Cells"
+        ],
+        "15117": [
+            "Splanchnic layer of lateral plate mesoderm",
+            "splanchnic layer of lateral plate mesoderm"
+        ],
+        "15118": [
+            "Subcutaneous preadipocyte",
+            "subcutaneous preadipocyte"
+        ],
+        "15119": [
+            "Superior temporal gyrus",
+            "superior temporal gyrus"
+        ],
+        "15120": [
+            "SW480",
+            "Colorectal adenocarcinoma"
+        ],
+        "15121": [
+            "Fetal temporal lobe",
+            "Fetal temporal lobe"
+        ],
+        "15122": [
+            "Adult thyroid gland",
+            "Adult thyroid gland"
+        ],
+        "15123": [
+            "Fetal thyroid gland",
+            "Fetal thyroid gland"
+        ],
+        "15124": [
+            "Tongue",
+            "tongue"
+        ],
+        "15125": [
+            "Transverse colon",
+            "transverse colon"
+        ],
+        "15126": [
+            "Urinary bladder",
+            "urinary bladder"
+        ],
+        "15127": [
+            "HUtSMC",
+            "Human Uterine Smooth Muscle Cells"
+        ],
+        "15128": [
+            "Uterus",
+            "uterus"
+        ],
+        "15129": [
+            "Fetal uterus",
+            "Fetal uterus"
+        ],
+        "15130": [
+            "C0202",
+            "Human blood cell line"
+        ],
+        "15131": [
+            "G401.6",
+            "Kidney Rhabdoid tumor cell line"
+        ],
+        "15132": [
+            "iPS cell",
+            "Induced pluripotent stem cell"
+        ],
+        "15133": [
+            "Renal cell carcinoma",
+            "Renal cell carcinoma"
+        ],
+        "15134": [
+            "A204.1",
+            "Human rhabdomyosarcoma cell line, child of A204"
+        ],
+        "15135": [
+            "HEMEC",
+            "endometrial microvascular endothelial cells"
+        ],
+        "15136": [
+            "Endometrium",
+            "endometrium"
+        ],
+        "15137": [
+            "Transverse colon",
+            "transverse colon"
         ]
     }, 
     "vocabulary": {
@@ -2434,7 +2982,13 @@
             "Adult Cells/Tissues": {
                 "Adult Miscellaneous": [
                     "13130", 
-                    "13193"
+                    "13193",
+                    "15033",
+                    "15038",
+                    "15042",
+                    "15094",
+                    "15096",
+                    "15097"
                 ], 
                 "Blood": {
                     "Lymphoblastoid": [
@@ -2475,7 +3029,8 @@
                         "13139", 
                         "13140", 
                         "13278", 
-                        "13279"
+                        "13279",
+                        "15045"
                     ], 
                     "Other blood cells": [
                     "13019", 
@@ -2518,7 +3073,11 @@
                         "13289", 
                         "13297", 
                         "13116", 
-                        "13121"
+                        "13121",
+                        "15022",
+                        "15077",                        
+                        "15130",
+                        "13308"
                     ]
                 }, 
                 "Bone": {
@@ -2528,22 +3087,29 @@
                         "13201", 
                         "13221", 
                         "13291", 
-                        "13292"
+                        "13292",
+                        "15052"
                     ], 
                     "Other Bone": [
-                        "13058"
+                        "13058",
+                        "15012"
                     ]
                 }, 
                 "Brain": {
                     "Cerebellum": [
-                        "13236"
+                        "13236",
+                        "15023",
+                        "15024",
+                        "15025",
+                        "15099"
                     ], 
                     "Cerebrum Frontal": [
                         "13237"
                     ], 
                     "Neurological Tissue": [
                         "13031", 
-                        "13033"
+                        "13033",
+                        "15014"
                     ], 
                     "Other Brain": [
                         "13040", 
@@ -2560,7 +3126,16 @@
                         "13125", 
                         "13142", 
                         "13298", 
-                        "13306"
+                        "13306",
+                        "15010",
+                        "15043",
+                        "15056",
+                        "15075",
+                        "15087",
+                        "15095",
+                        "15100",
+                        "15101",
+                        "15119"
                     ]
                 }, 
                 "Breast": {
@@ -2579,7 +3154,11 @@
                     ]
                 }, 
                 "Endothelia": [
-                    "13078"
+                    "13078",
+                    "15029",
+                    "15034",
+                    "15069",
+                    "15070"
                 ], 
                 "Epithelial": [
                     "13108", 
@@ -2591,7 +3170,13 @@
                     "13133", 
                     "13175", 
                     "13293", 
-                    "13295"
+                    "13295",
+                    "15035",
+                    "15044",
+                    "15061",
+                    "15072",
+                    "15080",
+                    "15135"
                 ], 
                 "Eye": [
                     "13088", 
@@ -2603,7 +3188,8 @@
                     "13012", 
                     "13013", 
                     "13206", 
-                    "13220"
+                    "13220",
+                    "15118"
                 ], 
                 "Frontal Cortex": [
                     "13230"
@@ -2612,7 +3198,9 @@
                     "Colon": [
                         "13147", 
                         "13213", 
-                        "13231"
+                        "13231",
+                        "15125",
+                        "15137"
                     ], 
                     "Duodenum": [
                         "13162", 
@@ -2629,14 +3217,17 @@
                         "13004", 
                         "13106", 
                         "13128", 
-                        "13216"
+                        "13216",
+                        "15098"
                     ], 
                     "Pancreatic Islet": [
                         "13171", 
                         "13177", 
                         "13180", 
                         "13208", 
-                        "13227"
+                        "13227",
+                        "15057",
+                        "15058"
                     ], 
                     "Small Intestine": [
                         "13228"
@@ -2656,11 +3247,18 @@
                         "13170"
                     ], 
                     "Urocyst": [
-                        "13172"
+                        "13172",
+                        "15112",
+                        "15126"
+
                     ], 
                     "Uterus": [
                         "13181", 
-                        "13229"
+                        "13229",
+                        "15055",
+                        "15127",
+                        "15128",
+                        "15136"
                     ]
                 }, 
                 "Heart": [
@@ -2675,7 +3273,12 @@
                     "13214", 
                     "13232", 
                     "13299", 
-                    "13305"
+                    "13305",
+                    "15019",
+                    "15020",
+                    "15021",
+                    "15093",
+                    "15113"
                 ], 
                 "Kidney": [
                     "13009", 
@@ -2690,7 +3293,8 @@
                 "Liver": [
                     "13010", 
                     "13048", 
-                    "13176"
+                    "13176",
+                    "15104"
                 ], 
                 "Lung": [
                     "13110", 
@@ -2699,7 +3303,11 @@
                     "13057", 
                     "13086", 
                     "13233", 
-                    "13301"
+                    "13301",
+                    "15015",
+                    "15016",
+                    "15114",
+                    "15116"
                 ], 
                 "Muscle": [
                     "13001", 
@@ -2711,7 +3319,9 @@
                     "13166", 
                     "13218", 
                     "13294", 
-                    "13296"
+                    "13296",
+                    "15041",
+                    "15078"
                 ], 
                 "Nasal Biopsy": [
                     "13287"
@@ -2737,7 +3347,8 @@
                     "13179", 
                     "13219", 
                     "13223", 
-                    "13224"
+                    "13224",
+                    "15048"
                 ], 
                 "Spleen": [
                     "13205", 
@@ -2769,7 +3380,11 @@
                     "13304"
                 ], 
                 "Thymus": [
-                    "13303"
+                    "13303",
+                    "15102"
+                ],
+                "Thyoids": [
+                    "15122"
                 ], 
                 "Tonsil": [
                     "13282", 
@@ -2825,7 +3440,46 @@
                 "14044", 
                 "14048", 
                 "14049", 
-                "14050"
+                "14050",
+                "14051",
+                "14052",
+                "14053",
+                "14054",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15017",
+                "15027",
+                "15031",
+                "15046",
+                "15047",
+                "15049",
+                "15053",
+                "15054",
+                "15059",
+                "15060",
+                "15067",
+                "15068",
+                "15074",
+                "15076",
+                "15079",
+                "15081",
+                "15082",
+                "15083",
+                "15089",
+                "15091",
+                "15092",
+                "15105",
+                "15106",
+                "15107",
+                "15108",
+                "15109",
+                "15110",
+                "15120",
+                "15131",
+                "15133",
+                "15134"
             ], 
             "ES/iPS Cells": {
                 "Derived Cells": [
@@ -2853,8 +3507,13 @@
                     "11324", 
                     "11325", 
                     "11326", 
-                    "11327"
-                ], 
+                    "11327",
+                    "15011",
+                    "15011",
+                    "15028",
+                    "15036",
+                    "15050"
+        ], 
                 "Embryonic Stem Cells": {
                     "HUES Cells": [
                         "11105", 
@@ -2882,7 +3541,14 @@
                         "11102", 
                         "11104", 
                         "11123", 
-                        "11125"
+                        "11125",
+                        "15013",
+                        "15026",
+                        "15029",
+                        "15065",
+                        "15085",
+                        "15086",
+                        "15117"
                     ]
                 }, 
                 "Induced Pluripotent Stem Cells": [
@@ -2903,7 +3569,10 @@
                     "11215", 
                     "11216", 
                     "11217", 
-                    "11218"
+                    "11218",
+                    "15063",
+                    "15064",
+                    "15132"
                 ]
             }, 
             "Fetal Cells/Tissues": {
@@ -2924,7 +3593,12 @@
                     "12017", 
                     "12018", 
                     "12019", 
-                    "12020"
+                    "12020",
+                    "15030",
+                    "15040",
+                    "15088",
+                    "15090",
+                    "15121"
                 ], 
                 "Fetal Heart": [
                     "12006", 
@@ -3021,10 +3695,15 @@
                     "12240",
                     "12241",
                     "12243",
-                    "12245"
+                    "12245",
+                    "15062",
+                    "15071",
+                    "15073"
                 ], 
                 "Fetal Liver": [
-                    "12216"
+                    "12216",
+                    "15051",
+                    "15066"
                 ], 
                 "Fetal Lung": [
                     "11310", 
@@ -3126,13 +3805,15 @@
                     "12234", 
                     "12235", 
                     "12236",
-                    "12242"
+                    "12242",
+                    "15111"
                 ], 
                 "Fetal Ovary": [
                     "12239"
                 ], 
                 "Fetal Placenta": [
-                    "12107"
+                    "12107",
+                    "15115"
                 ], 
                 "Fetal Skin": [
                     "12178", 
@@ -3146,7 +3827,9 @@
                     "12198", 
                     "13035", 
                     "13144", 
-                    "13145"
+                    "13145",
+                    "15032",
+                    "15039"
                 ], 
                 "Fetal Spinal Cord": [
                     "12179"
@@ -3181,6 +3864,22 @@
                     "12200", 
                     "12201", 
                     "12228"
+                ],
+                "Fetal Eye": [
+                    "15018",
+                    "15103"
+                ],
+                "Fetal Esophagus": [
+                    "15124"
+                ],
+                "Fetal Glands": [
+                    "15123"
+                ],
+                "Fetal Neural Systems": [
+                    "15084"
+                ],
+                "Fetal Uterus": [
+                    "15129"
                 ]
             }, 
             "Placenta": [

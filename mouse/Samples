@@ -324,9 +324,21 @@
             "MEF (Primary mouse fibroblasts)", 
             "MEF (Primary mouse fibroblasts)"
         ], 
+        "10084": [
+            "mNSC, neural stem cells", 
+            "neural stem cells"
+        ], 
+        "10085": [
+            "mAST astrocytes", 
+            "astrocytes"
+        ], 
         "10078": [
             "E14.5-liver", 
             "E14.5-liver"
+        ], 
+        "10086": [
+            "Tcell CD4+ CD8+ Double Positive Thymocytes", 
+            "Tcell CD4+ CD8+ Double Positive Thymocytes"
         ], 
         "10079": [
             "Intestine", 
@@ -383,6 +395,9 @@
                     "10069", 
                     "10070", 
                     "10080", 
+                    "10084", 
+                    "10085", 
+                    "10086", 
                     "10071"
                 ]
             }, 

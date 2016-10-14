@@ -1279,6 +1279,10 @@
         "27004": [
             "chromHMM", 
             "chromatin state"
+        ],
+        "27005": [
+            "RAMPAGE",
+            "Promoter Activity Profiling by Paired-end sequencing of 5'-complete cDNAs"
         ]
     }, 
     "vocabulary": {
@@ -1467,7 +1471,8 @@
                 "25003", 
                 "25004", 
                 "25005", 
-                "25006"
+                "25006",
+                "27005"
             ], 
             "Long Range Interaction": [
                 "27001", 
