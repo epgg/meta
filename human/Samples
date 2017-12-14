@@ -2212,6 +2212,18 @@
             "B-cells", 
             "Normal B-cells"
         ], 
+        "13309": [
+            "Colon",
+            "Colon"
+        ],
+        "13310": [
+            "Lung Squamous Cell",
+            "Lung Squamous Cell"
+        ],
+        "13311": [
+            "Uterine Corpus Endometrioid",
+            "Uterine Corpus Endometrioid"
+        ],
         "14001": [
             "HeLa-S3", 
             "Human epithelial carcinoma cell line S3"
@@ -2428,6 +2440,34 @@
             "Primary_tumor_B-cells", 
             "Primary_tumor_B-cells_acute_lymphoblastic_leukemia"
         ], 
+        "14055": [
+            "COAD",
+            "Colon Adenocarcinoma"
+        ],
+        "14056": [
+            "LUSC",
+            "Lung Squamous Cell Carcinoma"
+        ],
+        "14057": [
+            "UCEC",
+            "Uterine Corpus Endometrioid Carcinoma"
+        ],
+        "14058": [
+            "LUAD",
+            "Lung Adenocarcinoma"
+        ],
+        "14059": [
+            "OV",
+            "Ovarian Serous Cystadenocarcinoma"
+        ],
+        "14060": [
+            "STAD",
+            "Stomach Adenocarcinoma"
+        ],
+        "14061": [
+            "UVM",
+            "Uveal Melanoma"
+        ],
         "15001": [
             "Placenta_Amnion", 
             "Placenta_Amnion"
@@ -3196,6 +3236,7 @@
                 ], 
                 "Gastrointestinal": {
                     "Colon": [
+                        "13309", 
                         "13147", 
                         "13213", 
                         "13231",
@@ -3255,6 +3296,7 @@
                     "Uterus": [
                         "13181", 
                         "13229",
+                        "13311",
                         "15055",
                         "15127",
                         "15128",
@@ -3304,6 +3346,7 @@
                     "13086", 
                     "13233", 
                     "13301",
+                    "13310",
                     "15015",
                     "15016",
                     "15114",
@@ -3445,6 +3488,13 @@
                 "14052",
                 "14053",
                 "14054",
+                "14055",
+                "14056",
+                "14057",
+                "14058",
+                "14059",
+                "14060",
+                "14061",
                 "15006",
                 "15007",
                 "15008",

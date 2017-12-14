@@ -343,6 +343,10 @@
         "10079": [
             "Intestine", 
             "Intestine"
+        ],
+        "10087": [
+            "F123",
+            "Mus musculus castaneus × S129/SvJae mouse embryonic stem cells"
         ]
     }, 
     "vocabulary": {
@@ -364,6 +368,7 @@
                     "10081", 
                     "10082", 
                     "10083", 
+                    "10087", 
                     "10064"
                 ], 
                 "Normal Cell Lines": [
